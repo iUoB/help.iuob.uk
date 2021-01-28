@@ -37,7 +37,7 @@ module.exports = {
         repo: 'iUoB/help.iuob.uk',
         editLinks: true,
         docsDir: 'docs',
-        logo: '/assets/img/Logo_RB.png',
+        logo: 'iUoB_Logo_RB.png',
         displayAllHeaders: true,
         activeHeaderLinks: true,
         sidebar: 'auto',
