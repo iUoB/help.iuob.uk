@@ -36,7 +36,8 @@ module.exports = {
     themeConfig: {
         repo: 'iUoB/help.iuob.uk',
         editLinks: true,
-        logo: '/assets/img/Logo_RB.png',
+        docsDir: 'docs',
+        logo: 'iUoB_Logo_RB.png',
         displayAllHeaders: true,
         activeHeaderLinks: true,
         sidebar: 'auto',
@@ -82,7 +83,7 @@ module.exports = {
                 repo: 'iUoB/help.iuob.uk',
                 repoLabel: '查看源码',
                 editLinks: true,
-                editLinkText: '在GitHuB编辑此页面',
+                editLinkText: '在GitHub编辑此页面',
                 nav: [
                     { text: 'Home', link: '/zh-Hans/' },
                     { text: 'Help', link: '/zh-Hans/details/' },
