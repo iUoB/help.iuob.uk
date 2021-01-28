@@ -23,5 +23,64 @@ module.exports = {
             title: '帮助中心 - iUoB',
             description: '为你通往伯明翰大学的路上亮起明灯',
         }
+    },
+    themeConfig: {
+        locales: {
+            '/': {
+                label: 'British English',
+                selectText: 'Languages',
+                lastUpdated: 'Last Updated',
+                repo: 'iUoB/help',
+                repoLabel: 'View source code',
+                editLinks: true,
+                editLinkText: 'Edit this page on GitHub',
+                nav: [
+                    { text: 'Home', link: '/' },
+                    { text: 'Help', link: '/details/' },
+                    { text: 'Contacts', link: '/contacts/' },
+                    { text: 'About', link: '/about/' },
+                    {
+                        text: 'Others',
+                        ariaLabel: 'Others Menu',
+                        items: [
+                            { text: 'Homepage - iUoB', link: 'https://www.iuob.uk/' },
+                            { text: 'Status - iUoB', link: 'https://status.iuob.uk/' }
+                        ]
+                    }
+                ],
+                sidebar: [
+                    '/details/contacts',
+                    '/details/admissions'
+                ],
+            },
+            '/zh-Hans/': {
+                label: '简体中文',
+                selectText: 'Languages',
+                lastUpdated: '最后更新',
+                repo: 'iUoB/help',
+                repoLabel: '查看源码',
+                editLinks: true,
+                editLinkText: '在GitHuB编辑此页面',
+                nav: [
+                    { text: 'Home', link: '/zh-Hans/' },
+                    { text: 'Help', link: '/zh-Hans/details/' },
+                    { text: 'Contacts', link: '/zh-Hans/contacts/' },
+                    { text: 'About', link: '/zh-Hans/about/' },
+                    {
+                        text: 'Others',
+                        ariaLabel: 'Others Menu',
+                        items: [
+                            { text: 'Homepage - iUoB', link: 'https://www.iuob.uk/' },
+                            { text: 'Status - iUoB', link: 'https://status.iuob.uk/' }
+                        ]
+                    }
+                ],
+                sidebar: [
+                    '/zh-Hans/details/contacts',
+                    '/zh-Hans/details/admissions'
+                ],
+            },
+
+        }
     }
 }
