@@ -83,7 +83,7 @@ module.exports = {
                 repo: 'iUoB/help.iuob.uk',
                 repoLabel: '查看源码',
                 editLinks: true,
-                editLinkText: '在GitHuB编辑此页面',
+                editLinkText: '在GitHub编辑此页面',
                 nav: [
                     { text: 'Home', link: '/zh-Hans/' },
                     { text: 'Help', link: '/zh-Hans/details/' },
