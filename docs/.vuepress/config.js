@@ -1,4 +1,5 @@
 module.exports = {
+    permalink: "/post/:slug",
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }],
         ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
@@ -56,6 +57,11 @@ module.exports = {
                         ]
                     }
                 ],
+                sidebar: [
+                    ['/details/', 'Navigation Page'],
+                    ['/details/contacts/', 'Contacts-related Questions'],
+                    ['/details/admissions/', 'Admissions/Offer-related Questions']
+                ]
             },
             '/zh-Hans/': {
                 label: '简体中文',
@@ -79,6 +85,11 @@ module.exports = {
                         ]
                     }
                 ],
+                sidebar: [
+                    ['/zh-Hans/details/', '导航页面'],
+                    ['/zh-Hans/details/contacts/', '联系方式类问题'],
+                    ['/zh-Hans/details/admissions/', '录取/Offer类问题']
+                ]
             },
 
         }
