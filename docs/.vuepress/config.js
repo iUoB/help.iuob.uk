@@ -27,6 +27,11 @@ module.exports = {
     },
     plugins: [
         ['@vuepress/google-analytics', { 'ga': 'G-SCWB4S9801' }],
+        ['@vuepress/back-to-top'],
+        ['@vuepress/last-updated'],
+        ['@vuepress/medium-zoom'],
+        ['@vuepress/nprogress'],
+        ['@vuepress/pwa'],
     ],
     themeConfig: {
         search: true,
