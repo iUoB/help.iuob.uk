@@ -24,9 +24,15 @@ module.exports = {
             description: '为你通往伯明翰大学的路上亮起明灯',
         }
     },
+    plugins: [
+        ['@vuepress/google-analytics', { 'ga': 'G-SCWB4S9801' }],
+    ],
     themeConfig: {
         search: true,
         searchMaxSuggestions: 10,
+        feed: {
+            canonical_base: 'http://help.iuob.uk/'
+        },
         locales: {
             '/': {
                 label: 'British English',
