@@ -25,6 +25,8 @@ module.exports = {
         }
     },
     themeConfig: {
+        search: true,
+        searchMaxSuggestions: 10,
         locales: {
             '/': {
                 label: 'British English',
@@ -48,10 +50,6 @@ module.exports = {
                         ]
                     }
                 ],
-                sidebar: [
-                    '/details/contacts',
-                    '/details/admissions'
-                ],
             },
             '/zh-Hans/': {
                 label: '简体中文',
@@ -74,10 +72,6 @@ module.exports = {
                             { text: 'Status - iUoB', link: 'https://status.iuob.uk/' }
                         ]
                     }
-                ],
-                sidebar: [
-                    '/zh-Hans/details/contacts',
-                    '/zh-Hans/details/admissions'
                 ],
             },
 
