@@ -26,12 +26,17 @@ module.exports = {
         }
     },
     plugins: [
-        ['@vuepress/google-analytics', { 'ga': 'G-SCWB4S9801' }],
-        ['@vuepress/back-to-top'],
+        ['@vuepress/google-analytics', {
+            'ga': 'G-SCWB4S9801'
+        }],
+        ['@vuepress/back-to-top', true],
         ['@vuepress/last-updated'],
-        ['@vuepress/medium-zoom'],
+        ['@vuepress/medium-zoom', true],
         ['@vuepress/nprogress'],
-        ['@vuepress/pwa'],
+        ['@vuepress/pwa', {
+            serviceWorker: true,
+            updatePopup: true
+        }]
     ],
     themeConfig: {
         repo: 'iUoB/help.iuob.uk',
@@ -44,9 +49,6 @@ module.exports = {
         smoothScroll: true,
         search: true,
         searchMaxSuggestions: 10,
-        feed: {
-            canonical_base: 'http://help.iuob.uk/'
-        },
         locales: {
             '/': {
                 label: 'British English',
