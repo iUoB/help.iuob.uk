@@ -1,0 +1,13 @@
+{
+    "name": "help.iuob.uk",
+    "version": "0.0.2",
+    "description": "Light up your way to the University of Birmingham.",
+    "main": "index.js",
+    "repository": "https://github.com/iUoB/help.iuob.uk.git",
+    "author": "Harry Yep",
+    "license": "MIT",
+    "private": true,
+    "devDependencies": {
+        "vuepress": "^1.8.0"
+    }
+}
