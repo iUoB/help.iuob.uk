@@ -31,8 +31,10 @@ module.exports = {
         }],
         ['@vuepress/back-to-top', true],
         ['@vuepress/last-updated', {
-            transformer: timestamp => {
-                return new Date(timestamp).toISOString()
+            transformer: (timestamp, lang) => {
+                const moment = require("moment");
+                moment.locale(lang);
+                return moment(timestamp).format("YYYY-MM-DD HH:mm");
             }
         }],
         ['@vuepress/medium-zoom', true],
@@ -83,7 +85,8 @@ module.exports = {
                 sidebar: [
                     ['/details/', 'Navigation Page'],
                     ['/details/contacts/', 'Contacts-related Questions'],
-                    ['/details/admissions/', 'Admissions/Offer-related Questions']
+                    ['/details/admissions/', 'Admissions/Offer-related Questions'],
+                    ['/zh-Hans/details/solutions/', 'Solutions']
                 ]
             },
             '/zh-Hans/': {
@@ -111,7 +114,8 @@ module.exports = {
                 sidebar: [
                     ['/zh-Hans/details/', '导航页面'],
                     ['/zh-Hans/details/contacts/', '联系方式类问题'],
-                    ['/zh-Hans/details/admissions/', '录取/Offer类问题']
+                    ['/zh-Hans/details/admissions/', '录取/Offer类问题'],
+                    ['/zh-Hans/details/solutions/', '解决方案']
                 ]
             },
 
