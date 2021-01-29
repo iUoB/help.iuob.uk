@@ -36,7 +36,8 @@ module.exports = {
         ['@vuepress/pwa', {
             serviceWorker: true,
             updatePopup: true
-        }]
+        }],
+        ['pangu', true]
     ],
     themeConfig: {
         repo: 'iUoB/help.iuob.uk',
@@ -61,8 +62,8 @@ module.exports = {
                 nav: [
                     { text: 'Home', link: '/' },
                     { text: 'Help', link: '/details/' },
-                    { text: 'Contacts', link: '/contacts/' },
-                    { text: 'About', link: '/about/' },
+                    { text: 'Contact Us', link: '/contacts/' },
+                    { text: 'About iUoB', link: '/about/' },
                     {
                         text: 'Others',
                         ariaLabel: 'Others Menu',
@@ -87,12 +88,12 @@ module.exports = {
                 editLinks: true,
                 editLinkText: '在GitHub编辑此页面',
                 nav: [
-                    { text: 'Home', link: '/zh-Hans/' },
-                    { text: 'Help', link: '/zh-Hans/details/' },
-                    { text: 'Contacts', link: '/zh-Hans/contacts/' },
-                    { text: 'About', link: '/zh-Hans/about/' },
+                    { text: '主页', link: '/zh-Hans/' },
+                    { text: '详情', link: '/zh-Hans/details/' },
+                    { text: '联系我们', link: '/zh-Hans/contacts/' },
+                    { text: '关于iUoB', link: '/zh-Hans/about/' },
                     {
-                        text: 'Others',
+                        text: '其他',
                         ariaLabel: 'Others Menu',
                         items: [
                             { text: 'Homepage - iUoB', link: 'https://www.iuob.uk/' },

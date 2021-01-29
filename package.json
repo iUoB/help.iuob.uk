@@ -22,6 +22,7 @@
         "build": "vuepress build docs"
     },
     "dependencies": {
+        "vuepress-plugin-pangu": "^1.0.1",
         "vuepress-plugin-sitemap": "^2.3.1"
     }
 }
