@@ -30,14 +30,21 @@ module.exports = {
             'ga': 'G-SCWB4S9801'
         }],
         ['@vuepress/back-to-top', true],
-        ['@vuepress/last-updated'],
+        ['@vuepress/last-updated', {
+            transformer: timestamp => {
+                return new Date(timestamp).toISOString()
+            }
+        }],
         ['@vuepress/medium-zoom', true],
         ['@vuepress/nprogress'],
         ['@vuepress/pwa', {
             serviceWorker: true,
             updatePopup: true
         }],
-        ['pangu', true]
+        ['pangu', true],
+        ['sitemap', {
+            hostname: 'https://help.iuob.uk'
+        }]
     ],
     themeConfig: {
         repo: 'iUoB/help.iuob.uk',
