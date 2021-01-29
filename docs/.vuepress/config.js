@@ -82,7 +82,8 @@ module.exports = {
                             { text: 'Status - iUoB', link: 'https://status.iuob.uk/' }
                         ]
                     }
-                ]
+                ],
+                sidebar: 'auto'
             },
             '/zh-Hans/': {
                 label: '简体中文',
@@ -105,7 +106,8 @@ module.exports = {
                             { text: 'Status - iUoB', link: 'https://status.iuob.uk/' }
                         ]
                     }
-                ]
+                ],
+                sidebar: 'auto'
             },
 
         }
