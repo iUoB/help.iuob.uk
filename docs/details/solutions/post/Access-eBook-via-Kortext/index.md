@@ -1,6 +1,8 @@
-# How to access eBook via Kortext？（Eng Version）
+# How to access eBook via Kortext？
 
 ---
+
+## solution
 
 Using **_Java Programming 9th Edition_** as an example
 

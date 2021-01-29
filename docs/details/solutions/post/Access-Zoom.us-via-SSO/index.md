@@ -1,6 +1,8 @@
-# Access [Zoom](http://zoom.us/) via SSO (Eng Version)
+# Access [Zoom](http://zoom.us/) via SSO
 
 ---
+
+# solutions
 
 Example as University of Birmingham SSO
 
