@@ -47,7 +47,8 @@ module.exports = {
         ['sitemap', {
             hostname: 'https://help.iuob.uk'
         }],
-        ['auto-sidebar', true]
+        ['auto-sidebar', true],
+        ['fulltext-search', true]
     ],
     themeConfig: {
         repo: 'iUoB/help.iuob.uk',
