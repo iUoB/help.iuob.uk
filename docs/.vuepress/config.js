@@ -46,7 +46,8 @@ module.exports = {
         ['pangu', true],
         ['sitemap', {
             hostname: 'https://help.iuob.uk'
-        }]
+        }],
+        ['auto-sidebar', true]
     ],
     themeConfig: {
         repo: 'iUoB/help.iuob.uk',
@@ -81,12 +82,6 @@ module.exports = {
                             { text: 'Status - iUoB', link: 'https://status.iuob.uk/' }
                         ]
                     }
-                ],
-                sidebar: [
-                    ['/details/', 'Navigation Page'],
-                    ['/details/contacts/', 'Contacts-related Questions'],
-                    ['/details/admissions/', 'Admissions/Offer-related Questions'],
-                    ['/zh-Hans/details/solutions/', 'Solutions']
                 ]
             },
             '/zh-Hans/': {
@@ -110,12 +105,6 @@ module.exports = {
                             { text: 'Status - iUoB', link: 'https://status.iuob.uk/' }
                         ]
                     }
-                ],
-                sidebar: [
-                    ['/zh-Hans/details/', '导航页面'],
-                    ['/zh-Hans/details/contacts/', '联系方式类问题'],
-                    ['/zh-Hans/details/admissions/', '录取/Offer类问题'],
-                    ['/zh-Hans/details/solutions/', '解决方案']
                 ]
             },
 

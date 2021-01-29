@@ -11,22 +11,22 @@ Using **_Java Programming 9th Edition_** as an example
 
 
   3. Find the link via Kortext, and click it
-
-    ![](./1.png)
+   
+   ![](./1.png)
   
   4. Redirect to login page
 
-    ![](./2.png)
+   ![](./2.png)
   
   5. Login your UoB email address
 
   
   6. Redirect to Kortext (When the first time you access), type in student email and set a password, and click **_Access my textbook_**, if you already have a Kortext account, please use **_Sign in instead_** 
 
-    ![](./3.png)
+   ![](./3.png)
   
   7. After successful login, you will be redirected to the reading page
   
-    ![](./4.png)
+   ![](./4.png)
 
 Now, You can use Kortext Mobile App or PC/MAC App to read the book

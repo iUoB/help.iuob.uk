@@ -5,8 +5,10 @@
 或者，您可以使用搜索栏搜索所需内容。
 
 
-## <center>[联系方式类问题](./contacts)</center>
+### [联系方式类问题](./contacts)
 
-## <center>[录取相关问题](./admissions)</center>
+### [录取相关问题](./admissions)
 
-## <center>......</center>
+### [解决方案](./solutions)
+
+### ......
