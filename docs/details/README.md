@@ -14,6 +14,8 @@ Click [here](./submit) to let us know.
 
 ## [Solutions](./solutions)
 
+## [Unorganized Questions](./unorganized)
+
 ## ......
 
 

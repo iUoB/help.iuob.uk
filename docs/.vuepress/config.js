@@ -73,6 +73,17 @@ module.exports = {
                 nav: [
                     { text: 'Home', link: '/' },
                     { text: 'Help', link: '/details/' },
+                    {
+                        text: 'Questions',
+                        ariaLabel: 'Questions Select Menu',
+                        items: [
+                            { text: 'Admissions', link: '/details/admissions/' },
+                            { text: 'Contacts', link: '/details/contacts/' },
+                            { text: 'Solutions', link: '/details/solutions/' },
+                            { text: 'Unorganized', link: '/details/unorganized/' },
+                            { text: 'Submit To Us', link: '/details/submit/' }
+                        ]
+                    },
                     { text: 'Contact Us', link: '/contacts/' },
                     { text: 'About iUoB', link: '/about/' },
                     {
@@ -97,6 +108,17 @@ module.exports = {
                 nav: [
                     { text: '主页', link: '/zh-Hans/' },
                     { text: '详情', link: '/zh-Hans/details/' },
+                    {
+                        text: '问题选择',
+                        ariaLabel: 'Questions Select Menu',
+                        items: [
+                            { text: 'Admissions', link: '/zh-Hans/details/admissions/' },
+                            { text: 'Contacts', link: '/zh-Hans/details/contacts/' },
+                            { text: 'Solutions', link: '/zh-Hans/details/solutions/' },
+                            { text: '未整理问题', link: '/zh-Hans/details/unorganized/' },
+                            { text: '向我们提交', link: '/zh-Hans/details/submit/' }
+                        ]
+                    },
                     { text: '联系我们', link: '/zh-Hans/contacts/' },
                     { text: '关于iUoB', link: '/zh-Hans/about/' },
                     {
