@@ -4,6 +4,9 @@ Please use buttons below to select what you want to find.
 
 Or, you can use the search bar to search what you want.
 
+::: tip Can't find what you want to know? Let us know
+Click [here](./submit) to let us know.
+:::
 
 ## [Contacts Questions](./contacts)
 
@@ -12,3 +15,8 @@ Or, you can use the search bar to search what you want.
 ## [Solutions](./solutions)
 
 ## ......
+
+
+## iUoB progress
+
+### [Latest Update](./updates)

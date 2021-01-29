@@ -1,11 +1,11 @@
 ---
 home: true
-heroImage: /iUoB_Logo_RB.png
+heroImage: ./iUoB_Logo_RB.png
 actionText: Read All →
 actionLink: /details/
 features:
-- title: Fast
-  details: A fast way to know what you want to know.
+  - title: Public Welfare
+    details: iUoB is a complete public welfare project.
 footer: MIT Licensed | Copyright © 2020-2021 iUoB. All rights reserved.
 ---
 
@@ -23,4 +23,4 @@ Help Center is being update, if you want to use Help Center, please visit [help-
 
 <center>Light up your way to the University of Birmingham.</center>
 
-
+<br>

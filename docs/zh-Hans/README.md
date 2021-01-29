@@ -4,8 +4,8 @@ heroImage: ./iUoB_Logo_RB.png
 actionText: 阅读更多 →
 actionLink: /zh-Hans/details/
 features:
-- title: 快速
-  details: 快速了解你想知道的事情。
+  - title: 公益性
+    details: iUoB是一个完全的公益项目。
 footer: MIT Licensed | Copyright © 2020-2021 iUoB. All rights reserved.
 ---
 
@@ -23,4 +23,4 @@ footer: MIT Licensed | Copyright © 2020-2021 iUoB. All rights reserved.
 
 <center>为你在通往伯明翰大学的路上亮起明灯</center>
 
-
+<br>
