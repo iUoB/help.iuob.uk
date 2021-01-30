@@ -6,12 +6,14 @@ actionLink: /details/
 features:
   - title: 公益性
     details: iUoB是一个完全的公益项目。
+  - title: 多语言
+    details: iUoB支持多语言。
 footer: MIT Licensed | Copyright © 2020-2021 iUoB. All rights reserved.
 ---
 
 
 请选择您的语言进行阅读：
-- [British English](../)
+- [British English](./en-GB/)
 - [简体中文](./)
 
 ::: warning

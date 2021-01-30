@@ -5,20 +5,40 @@
 或者，您可以使用搜索栏搜索所需内容。
 
 ::: tip 找不到你所需要的内容？帮助我们添加
-点击[此链接](./submit)提交或进行反馈。
+点击[此链接](./iUoB/submit/)提交或进行反馈。
 :::
 
-## [联系方式类问题](./contacts)
-
-## [录取相关问题](./admissions)
-
-## [解决方案](./solutions)
-
-## [未整理问题](./unorganized)
-
-## ......
+## 问题分类
 
 
-## iUoB进展
+### 入学前
 
-### [近期更新](./updates)
+#### [联系方式类问题](./pre-admissions/contacts/)
+
+#### [录取相关问题](./pre-admissions/admissions/)
+
+#### [其他](./pre-admissions/others/)
+
+
+
+### 入学后
+
+#### [常用解决方案](./enrolled/solutions/)
+
+#### [其他](./enrolled/others/)
+
+
+
+### 其他问题
+
+#### [未整理问题](./unorganized/)
+
+
+
+## iUoB
+
+### [下载iUoB软件](./iUoB/download/)
+
+### [提交问题](./iUoB/submit/)
+
+### [近期更新](./iUoB/updates/)

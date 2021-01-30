@@ -75,13 +75,30 @@ module.exports = {
                     { text: '详情', link: '/details/' },
                     {
                         text: '问题选择',
-                        ariaLabel: 'Questions Select Menu',
-                        items: [
-                            { text: 'Admissions', link: '/details/admissions/' },
-                            { text: 'Contacts', link: '/details/contacts/' },
-                            { text: 'Solutions', link: '/details/solutions/' },
+                        ariaLabel: '问题选择',
+                        items: [{
+                                text: '入学前',
+                                items: [
+                                    { text: 'Admissions', link: '/details/pre-admissions/admissions/' },
+                                    { text: 'Contacts', link: '/details/pre-admissions/contacts/' }
+                                ]
+                            },
+                            {
+                                text: '入学后',
+                                items: [
+                                    { text: 'Solutions', link: '/details/enrolled/solutions/' }
+                                ]
+                            },
                             { text: '未整理问题', link: '/details/unorganized/' },
-                            { text: '向我们提交', link: '/details/submit/' }
+                            {
+                                text: 'iUoB',
+                                items: [
+                                    { text: '下载iUoB', link: '/details/iUoB/download/' },
+                                    { text: '提交问题', link: '/details/iUoB/submit/' },
+                                    { text: '最近更新', link: '/details/iUoB/updates/' }
+                                ]
+                            }
+
                         ]
                     },
                     { text: '联系我们', link: '/contacts/' },
@@ -111,12 +128,29 @@ module.exports = {
                     {
                         text: 'Questions',
                         ariaLabel: 'Questions Select Menu',
-                        items: [
-                            { text: 'Admissions', link: '/en-GB/details/admissions/' },
-                            { text: 'Contacts', link: '/en-GB/details/contacts/' },
-                            { text: 'Solutions', link: '/en-GB/details/solutions/' },
-                            { text: 'Unorganized', link: '/en-GB/details/unorganized/' },
-                            { text: 'Submit To Us', link: '/en-GB/details/submit/' }
+                        items: [{
+                                text: 'Pre-Admissions',
+                                items: [
+                                    { text: 'Admissions', link: '/en-GB/details/pre-admissions/admissions/' },
+                                    { text: 'Contacts', link: '/en-GB/details/pre-admissions/contacts/' }
+                                ]
+                            },
+                            {
+                                text: 'Enrolled',
+                                items: [
+                                    { text: 'Solutions', link: '/en-GB/details/enrolled/solutions/' }
+                                ]
+                            },
+                            { text: 'Unorganized Questions', link: '/en-GB/details/unorganized/' },
+                            {
+                                text: 'iUoB',
+                                items: [
+                                    { text: 'Dwonload iUoB', link: '/en-GB/details/iUoB/download/' },
+                                    { text: 'Sumbit Questions', link: '/en-GB/details/iUoB/submit/' },
+                                    { text: 'Recent Updates', link: '/en-GB/details/iUoB/updates/' }
+                                ]
+                            }
+
                         ]
                     },
                     { text: 'Contact Us', link: '/en-GB/contacts/' },
