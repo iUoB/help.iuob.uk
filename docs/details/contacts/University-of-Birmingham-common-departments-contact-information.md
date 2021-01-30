@@ -1,6 +1,6 @@
-# University of Birmingham common department contact information
+# 伯明翰大学常用部门联系邮箱
 
-The following is the email address of the commonly used departments of the University of Birmingham
+以下为伯明翰大学常用部门联系邮箱
 
 Law School
 

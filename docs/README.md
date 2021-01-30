@@ -1,26 +1,26 @@
 ---
 home: true
 heroImage: ./iUoB_Logo_RB.png
-actionText: Read All →
+actionText: 阅读更多 →
 actionLink: /details/
 features:
-  - title: Public Welfare
-    details: iUoB is a complete public welfare project.
+  - title: 公益性
+    details: iUoB是一个完全的公益项目。
 footer: MIT Licensed | Copyright © 2020-2021 iUoB. All rights reserved.
 ---
 
 
-Please select your language:
-- [British English](./)
-- [简体中文](./zh-Hans/)
+请选择您的语言进行阅读：
+- [British English](../)
+- [简体中文](./)
 
 ::: warning
-Help Center is being update, if you want to use Help Center, please visit [help-old.iuob.uk](https://help-old.iuob.uk/). Thank you!
+帮助中心正在更新，如果你想要访问旧版帮助中心，请访问[help-old.iuob.uk](https://help-old.iuob.uk/)。谢谢！
 :::
 
 
-### <center>Help Center - iUoB</center>
+### <center>帮助中心 - iUoB</center>
 
-<center>Light up your way to the University of Birmingham.</center>
+<center>为你在通往伯明翰大学的路上亮起明灯</center>
 
 <br>

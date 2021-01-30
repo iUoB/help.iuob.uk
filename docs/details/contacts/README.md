@@ -1,3 +1,3 @@
-# Contacts information
+# 联系方式
 
-[University of Birmingham common department contact information](./University-of-Birmingham-common-departments-contact-information)
+[伯明翰大学常用部门联系邮箱](./University-of-Birmingham-common-departments-contact-information)

@@ -1,34 +1,32 @@
-# How to access eBook via Kortext？
+# 如何使用Kortext访问eBook？
 
 ---
 
-## solution
+以**Java Programming 9th Edition**为例
 
-Using **_Java Programming 9th Edition_** as an example
-
-  1. Access UoB Library [findit.bham.ac.uk](http://findit.bham.ac.uk/)
+  1. 访问学校图书馆 [findit.bham.ac.uk](http://findit.bham.ac.uk/)
 
 
-  2. Find the book you want （Example as [https://birmingham-primo.hosted.exlibrisgroup.com/permalink/f/vmc2c6/44BIR_ALMA_DS51193255410004871](https://birmingham-primo.hosted.exlibrisgroup.com/permalink/f/vmc2c6/44BIR_ALMA_DS51193255410004871)）
+  2. 找到需要使用的书（这里以[https://birmingham-primo.hosted.exlibrisgroup.com/permalink/f/vmc2c6/44BIR_ALMA_DS51193255410004871](https://birmingham-primo.hosted.exlibrisgroup.com/permalink/f/vmc2c6/44BIR_ALMA_DS51193255410004871)为例）
 
 
-  3. Find the link via Kortext, and click it
-   
+  3. 找到 Kortext 链接，并点击
+
    ![](./1.png)
   
-  4. Redirect to login page
+  4. 跳转至学校账户登陆界面
 
    ![](./2.png)
   
-  5. Login your UoB email address
+  5. 登陆学校账户
 
   
-  6. Redirect to Kortext (When the first time you access), type in student email and set a password, and click **_Access my textbook_**, if you already have a Kortext account, please use **_Sign in instead_** 
+  6. 跳转至此界面（第一次认证时），输入学校邮箱及设置密码，后点击**Access my textbook**,如果你已经注册，请使用**Sign in instead**
 
    ![](./3.png)
   
-  7. After successful login, you will be redirected to the reading page
+  7. 登陆成功后，将跳转至阅读界面
   
    ![](./4.png)
 
-Now, You can use Kortext Mobile App or PC/MAC App to read the book
+现在可以使用Kortext手机软件或者电脑软件进行阅读

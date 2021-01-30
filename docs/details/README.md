@@ -1,24 +1,24 @@
-# Help Center Navigation is here
+# 帮助中心导航
 
-Please use buttons below to select what you want to find.
+请使用下面的按钮选择要查找的内容。
 
-Or, you can use the search bar to search what you want.
+或者，您可以使用搜索栏搜索所需内容。
 
-::: tip Can't find what you want to know? Let us know
-Click [here](./submit) to let us know.
+::: tip 找不到你所需要的内容？帮助我们添加
+点击[此链接](./submit)提交或进行反馈。
 :::
 
-## [Contacts Questions](./contacts)
+## [联系方式类问题](./contacts)
 
-## [Offer Questions](./admissions)
+## [录取相关问题](./admissions)
 
-## [Solutions](./solutions)
+## [解决方案](./solutions)
 
-## [Unorganized Questions](./unorganized)
+## [未整理问题](./unorganized)
 
 ## ......
 
 
-## iUoB progress
+## iUoB进展
 
-### [Latest Update](./updates)
+### [近期更新](./updates)

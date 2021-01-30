@@ -1,12 +1,12 @@
-# Sumbit 
+# 提交
 
-If you find something is not in Help Center, you can use a lot of ways to submit it.
+如果您发现某些内容不在帮助中心内，可以使用多种方法提交。
 
-## To Contribute
+## 做出贡献
 
-- Use **Edit this page on GitHub** below to make changes to the page. (You must have a GitHub account)
+- 使用下方的**在GitHub编辑此页面**来对页面进行更改。（你必须有GitHub账户）
 - ToDo
 
-## To Report
+## 向我们报告
 
 - ToDo

@@ -1,4 +1,4 @@
-# Latest Updates
+# 最近更新
 
 ## Jan 2021
 

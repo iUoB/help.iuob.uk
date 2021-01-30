@@ -1,23 +1,23 @@
-# Contact iUoB
+# 联系iUoB
 
-iUoB provides a variety of ways for everyone to contact us, please select the content you want to consult below, and contact us in the corresponding way!
+iUoB提供多种方式让大家联系到我们，请在下面选择你想咨询的内容，并用相应的方式进行联系！
 
-## Verification Related
+## 认证相关
 
-- Send email to [verify#iuob.uk](mailto:verify@iuob.uk), with your Verification documents.
+- 请发送邮件到[verify#iuob.uk](mailto:verify@iuob.uk)，请提供相关的认证文件。
 
 ## Ask for help
 
-- Send email to [help#iuob.uk](mailto:help@iuob.uk), please detail your questions.
+- 请发送邮件到[help#iuob.uk](mailto:help@iuob.uk)，请细节描述您的问题。
 
 ## Others
 
 ### Talk to iUoB
 
-- Send email to [contacts#iuob.uk](mailto:contacts@iuob.uk).
+- 请发送邮件到[contacts#iuob.uk](mailto:contacts@iuob.uk)。
 
 ### Talk to Harry Yep
 
-- Send email to [hi#hiio.me](mailto:hi@hiio.me).
+- 请发送邮件到[hi#hiio.me](mailto:hi@hiio.me)。
 
 

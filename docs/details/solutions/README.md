@@ -1,6 +1,7 @@
-# Solutions
+# 解决方案
 
-### The solutions to many problems are provided here, you can find them below, or use the search box to search.
+### 这里提供了众多问题的解决方案，可以在下面寻找，或者用搜索框进行搜索。
+
 
 [Access Zoom.us via SSO](./post/Access-Zoom.us-via-SSO/)
 

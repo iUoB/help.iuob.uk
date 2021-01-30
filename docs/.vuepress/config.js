@@ -15,14 +15,14 @@ module.exports = {
     ],
     locales: {
         '/': {
-            lang: 'en-GB',
-            title: 'Help Center - iUoB',
-            description: 'Light up your way to the University of Birmingham',
-        },
-        '/zh-Hans/': {
             lang: 'zh-CN',
             title: '帮助中心 - iUoB',
             description: '为你通往伯明翰大学的路上亮起明灯',
+        },
+        '/en-GB/': {
+            lang: 'en-GB',
+            title: 'Help Center - iUoB',
+            description: 'Light up your way to the University of Birmingham',
         }
     },
     plugins: [
@@ -63,41 +63,6 @@ module.exports = {
         searchMaxSuggestions: 10,
         locales: {
             '/': {
-                label: 'British English',
-                selectText: 'Languages',
-                lastUpdated: 'Last Updated',
-                repo: 'iUoB/help.iuob.uk',
-                repoLabel: 'View source code',
-                editLinks: true,
-                editLinkText: 'Edit this page on GitHub',
-                nav: [
-                    { text: 'Home', link: '/' },
-                    { text: 'Help', link: '/details/' },
-                    {
-                        text: 'Questions',
-                        ariaLabel: 'Questions Select Menu',
-                        items: [
-                            { text: 'Admissions', link: '/details/admissions/' },
-                            { text: 'Contacts', link: '/details/contacts/' },
-                            { text: 'Solutions', link: '/details/solutions/' },
-                            { text: 'Unorganized', link: '/details/unorganized/' },
-                            { text: 'Submit To Us', link: '/details/submit/' }
-                        ]
-                    },
-                    { text: 'Contact Us', link: '/contacts/' },
-                    { text: 'About iUoB', link: '/about/' },
-                    {
-                        text: 'Others',
-                        ariaLabel: 'Others Menu',
-                        items: [
-                            { text: 'Homepage - iUoB', link: 'https://www.iuob.uk/' },
-                            { text: 'Status - iUoB', link: 'https://status.iuob.uk/' }
-                        ]
-                    }
-                ],
-                sidebar: 'auto'
-            },
-            '/zh-Hans/': {
                 label: '简体中文',
                 selectText: 'Languages',
                 lastUpdated: '最后更新',
@@ -106,21 +71,21 @@ module.exports = {
                 editLinks: true,
                 editLinkText: '在GitHub编辑此页面',
                 nav: [
-                    { text: '主页', link: '/zh-Hans/' },
-                    { text: '详情', link: '/zh-Hans/details/' },
+                    { text: '主页', link: '/' },
+                    { text: '详情', link: '/details/' },
                     {
                         text: '问题选择',
                         ariaLabel: 'Questions Select Menu',
                         items: [
-                            { text: 'Admissions', link: '/zh-Hans/details/admissions/' },
-                            { text: 'Contacts', link: '/zh-Hans/details/contacts/' },
-                            { text: 'Solutions', link: '/zh-Hans/details/solutions/' },
-                            { text: '未整理问题', link: '/zh-Hans/details/unorganized/' },
-                            { text: '向我们提交', link: '/zh-Hans/details/submit/' }
+                            { text: 'Admissions', link: '/details/admissions/' },
+                            { text: 'Contacts', link: '/details/contacts/' },
+                            { text: 'Solutions', link: '/details/solutions/' },
+                            { text: '未整理问题', link: '/details/unorganized/' },
+                            { text: '向我们提交', link: '/details/submit/' }
                         ]
                     },
-                    { text: '联系我们', link: '/zh-Hans/contacts/' },
-                    { text: '关于iUoB', link: '/zh-Hans/about/' },
+                    { text: '联系我们', link: '/contacts/' },
+                    { text: '关于iUoB', link: '/about/' },
                     {
                         text: '其他',
                         ariaLabel: 'Others Menu',
@@ -132,7 +97,41 @@ module.exports = {
                 ],
                 sidebar: 'auto'
             },
-
+            '/en-GB/': {
+                label: 'British English',
+                selectText: 'Languages',
+                lastUpdated: 'Last Updated',
+                repo: 'iUoB/help.iuob.uk',
+                repoLabel: 'View source code',
+                editLinks: true,
+                editLinkText: 'Edit this page on GitHub',
+                nav: [
+                    { text: 'Home', link: '/en-GB/' },
+                    { text: 'Help', link: '/en-GB/details/' },
+                    {
+                        text: 'Questions',
+                        ariaLabel: 'Questions Select Menu',
+                        items: [
+                            { text: 'Admissions', link: '/en-GB/details/admissions/' },
+                            { text: 'Contacts', link: '/en-GB/details/contacts/' },
+                            { text: 'Solutions', link: '/en-GB/details/solutions/' },
+                            { text: 'Unorganized', link: '/en-GB/details/unorganized/' },
+                            { text: 'Submit To Us', link: '/en-GB/details/submit/' }
+                        ]
+                    },
+                    { text: 'Contact Us', link: '/en-GB/contacts/' },
+                    { text: 'About iUoB', link: '/en-GB/about/' },
+                    {
+                        text: 'Others',
+                        ariaLabel: 'Others Menu',
+                        items: [
+                            { text: 'Homepage - iUoB', link: 'https://www.iuob.uk/' },
+                            { text: 'Status - iUoB', link: 'https://status.iuob.uk/' }
+                        ]
+                    }
+                ],
+                sidebar: 'auto'
+            },
         }
     }
 }

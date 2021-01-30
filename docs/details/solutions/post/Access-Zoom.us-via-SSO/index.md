@@ -1,31 +1,29 @@
-# Access [Zoom](http://zoom.us/) via SSO
+# 如何使用SSO登陆Zoom （简体中文）
 
 ---
 
-# solutions
+以下以University of Birmingham为例
 
-Example as University of Birmingham SSO
-
-  1. Go to Zoom login screen
+  1. 进入Zoom登陆界面
    
    ![](./1.png)
   
-  2. Select SSO Login
+  2. 选择SSO登录
    
    ![](./2.png)
   
-  3. Enter the SSO domain name and press Continue
+  3. 输入SSO域名，并点按继续
    
    ![](./3.png)
   
-  4. If you don't know the SSO domain name, please use your Company/University email address to find it.
+  4. 如果你不知道SSO域名，请使用邮箱进行查找
 
    ![](./4.png)
   
-  5. Redirect to the SSO authentication page
+  5. 跳转至SSO认证界面
      
    ![](./5.png)
 
-  6. Successful login to access your [Zoom.us](http://zoom.us/) account
+  6. 登陆成功即可访问[Zoom.us](https://zoom.us)账户
    
    ![](./6.png)
