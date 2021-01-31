@@ -38,7 +38,7 @@ module.exports = {
             }
         }],
         ['@vuepress/medium-zoom', true],
-        ['@vuepress/nprogress'],
+        ['@vuepress/nprogress', true],
         ['@vuepress/pwa', {
             serviceWorker: true,
             updatePopup: true
