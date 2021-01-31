@@ -79,14 +79,16 @@ module.exports = {
                         items: [{
                                 text: '入学前',
                                 items: [
-                                    { text: 'Admissions', link: '/details/pre-admissions/admissions/' },
-                                    { text: 'Contacts', link: '/details/pre-admissions/contacts/' }
+                                    { text: '录取相关', link: '/details/pre-admissions/admissions/' },
+                                    { text: '联系方式', link: '/details/pre-admissions/contacts/' },
+                                    { text: '其他', link: '/details/pre-admissions/others/' }
                                 ]
                             },
                             {
                                 text: '入学后',
                                 items: [
-                                    { text: 'Solutions', link: '/details/enrolled/solutions/' }
+                                    { text: 'Solutions', link: '/details/enrolled/solutions/' },
+                                    { text: '其他', link: '/details/enrolled/others/' }
                                 ]
                             },
                             { text: '未整理问题', link: '/details/unorganized/' },
@@ -132,13 +134,15 @@ module.exports = {
                                 text: 'Pre-Admissions',
                                 items: [
                                     { text: 'Admissions', link: '/en-GB/details/pre-admissions/admissions/' },
-                                    { text: 'Contacts', link: '/en-GB/details/pre-admissions/contacts/' }
+                                    { text: 'Contacts', link: '/en-GB/details/pre-admissions/contacts/' },
+                                    { text: 'Others', link: '/en-GB/details/pre-admissions/others/' }
                                 ]
                             },
                             {
                                 text: 'Enrolled',
                                 items: [
-                                    { text: 'Solutions', link: '/en-GB/details/enrolled/solutions/' }
+                                    { text: 'Solutions', link: '/en-GB/details/enrolled/solutions/' },
+                                    { text: 'Others', link: '/en-GB/details/enrolled/others/' }
                                 ]
                             },
                             { text: 'Unorganized Questions', link: '/en-GB/details/unorganized/' },
