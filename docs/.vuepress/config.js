@@ -16,12 +16,12 @@ module.exports = {
     locales: {
         '/': {
             lang: 'zh-CN',
-            title: '帮助中心 - iUoB',
+            title: '帮助中心 | iUoB',
             description: '为你通往伯明翰大学的路上亮起明灯',
         },
         '/en-GB/': {
             lang: 'en-GB',
-            title: 'Help Center - iUoB',
+            title: 'Help Center | iUoB',
             description: 'Light up your way to the University of Birmingham',
         }
     },
