@@ -91,7 +91,13 @@ module.exports = {
                                     { text: '其他', link: '/details/enrolled/others/' }
                                 ]
                             },
-                            { text: '未整理问题', link: '/details/unorganized/' },
+                            {
+                                text: '其他问题',
+                                items: [
+                                    { text: '关键词查询', link: '/details/others/keywords/' },
+                                    { text: '未整理问题', link: '/details/others/unorganized/' },
+                                ]
+                            },
                             {
                                 text: 'iUoB',
                                 items: [
@@ -145,7 +151,12 @@ module.exports = {
                                     { text: 'Others', link: '/en-GB/details/enrolled/others/' }
                                 ]
                             },
-                            { text: 'Unorganized Questions', link: '/en-GB/details/unorganized/' },
+                            {
+                                text: 'Others',
+                                items: [
+                                    { text: 'Unorganized Questions', link: '/details/others/unorganized/' },
+                                ]
+                            },
                             {
                                 text: 'iUoB',
                                 items: [

@@ -13,32 +13,34 @@
 
 ### 入学前
 
-#### [联系方式类问题](./pre-admissions/contacts/)
+- [联系方式类问题](./pre-admissions/contacts/)
 
-#### [录取相关问题](./pre-admissions/admissions/)
+- [录取相关问题](./pre-admissions/admissions/)
 
-#### [其他](./pre-admissions/others/)
+- [其他](./pre-admissions/others/)
 
 
 
 ### 入学后
 
-#### [常用解决方案](./enrolled/solutions/)
+- [常用解决方案](./enrolled/solutions/)
 
-#### [其他](./enrolled/others/)
+- [其他](./enrolled/others/)
 
 
 
 ### 其他问题
 
-#### [未整理问题](./unorganized/)
+- [未整理问题](./others/unorganized/)
+
+- [群关键词查询](./others/keywords/)
 
 
 
 ## iUoB
 
-### [下载iUoB软件](./iUoB/download/)
+- [下载iUoB软件](./iUoB/download/)
 
-### [提交问题](./iUoB/submit/)
+- [提交问题](./iUoB/submit/)
 
-### [近期更新](./iUoB/updates/)
+- [近期更新](./iUoB/updates/)

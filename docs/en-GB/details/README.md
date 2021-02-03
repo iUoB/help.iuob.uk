@@ -13,32 +13,32 @@ Click [here](./iUoB/submit/) to let us know.
 
 ### Pre-Admissions
 
-#### [Contacts Questions](./pre-admissions/contacts/)
+- [Contacts Questions](./pre-admissions/contacts/)
 
-#### [Offer Questions](./pre-admissions/admissions/)
+- [Offer Questions](./pre-admissions/admissions/)
 
-#### [Others](./pre-admissions/others/)
+- [Others](./pre-admissions/others/)
 
 
 
 ### Enrolled
 
-#### [Solutions](./enrolled/solutions/)
+- [Solutions](./enrolled/solutions/)
 
-#### [Others](./enrolled/others/)
+- [Others](./enrolled/others/)
 
 
 
 ### 其他问题
 
-#### [Unorganized Questions](./unorganized/)
+- [Unorganized Questions](./others/unorganized/)
 
 
 
 ## iUoB
 
-### [Download iUoB](./iUoB/download/)
+- [Download iUoB](./iUoB/download/)
 
-### [Submit Question](./iUoB/submit/)
+- [Submit Question](./iUoB/submit/)
 
-### [Latest Update](./iUoB/updates/)
+- [Latest Update](./iUoB/updates/)
