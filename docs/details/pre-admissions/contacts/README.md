@@ -9,6 +9,8 @@
 
 [与学校宿舍取得联系](./get-in-touch-with-the-living)
 
+[与学校IT部门取得联系](./get-in-touch-with-the-it)
+
 [与Student Help取得联系](./get-in-touch-with-the-student-help)
 
 [伯明翰大学常用部门联系邮箱](./University-of-Birmingham-common-departments-contact-information)
