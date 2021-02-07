@@ -17,6 +17,8 @@
 
 - [录取相关问题](./pre-admissions/admissions/)
 
+- [缴费问题](./pre-admissions/pay/)
+
 - [其他](./pre-admissions/others/)
 
 
