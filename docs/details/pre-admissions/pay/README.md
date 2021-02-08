@@ -16,3 +16,7 @@
 如无特殊说明，则两者共用同一收款信息，请点击此处下载[收款信息](https://download.iuob.uk/Documents/Pay/UoB-Financial-Particulars-Student-Income.pdf)文件。
 :::
 
+## 联系方式
+
+请[点此链接查看](../contacts/get-in-touch-with-the-payment-department)
+
