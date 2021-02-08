@@ -54,4 +54,7 @@ Accounts Receivable Team
 
 ## 资金支持
 
-请查看[资金支持官网](https://www.birmingham.ac.uk/postgraduate/support/moneyadvice/support.aspx)
+请查看资金支持官网
+
+- [UG](https://www.birmingham.ac.uk/study/support/moneyadvice/support.aspx)
+- [PG](https://www.birmingham.ac.uk/postgraduate/support/moneyadvice/support.aspx)
