@@ -1,4 +1,4 @@
-# 与IT部门取得联系
+# 与伯明翰大学IT部门取得联系
 
 ::: tip
 更多信息请访问[IT 部门官网](https://intranet.birmingham.ac.uk/it/contact/index.aspx)

@@ -1,4 +1,4 @@
-# 与学校宿舍取得联系
+# 与伯明翰大学宿舍取得联系
 
 ::: tip
 更多信息请访问[学校宿舍官网](https://www.birmingham.ac.uk/study/accommodation/index.aspx)

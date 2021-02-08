@@ -1,4 +1,4 @@
-# 与招生办取得联系
+# 与伯明翰大学招生办取得联系
 
 ::: tip
 更多信息请访问[学校招生办官网](https://www.birmingham.ac.uk/university/colleges/professional/external/admissions/index.aspx)
