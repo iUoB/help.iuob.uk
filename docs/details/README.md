@@ -25,6 +25,8 @@
 
 ### 伯明翰大学入学后
 
+- [账户密码问题](./enrolled/password/)
+
 - [常用解决方案](./enrolled/solutions/)
 
 - [其他](./enrolled/others/)
