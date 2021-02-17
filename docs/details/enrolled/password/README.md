@@ -2,13 +2,13 @@
 
 ## 第一次使用伯明翰大学分配的学生账户？
 
-- 请首先使用[my.password.bham.ac.uk](my.password.bham.ac.uk)更改默认密码,默认密码将在注册成功后通过邮件发送
+- 请首先使用[my.password.bham.ac.uk](https://my.password.bham.ac.uk/)更改默认密码,默认密码将在注册成功后通过邮件发送
     - 如果你是个人申请,将发送到你的个人邮箱
     - 如果你是中介申请,请联系你的中介索要登录账号及密码,
 
 ## 更改密码后仍然被提示
 
-- 根据学校安全系统规定，**180**天必须修改一次密码，你将提前一个月收到系统自动发送的提醒邮件,访问[my.password.bham.ac.uk](my.password.bham.ac.uk)即可修改.
+- 根据学校安全系统规定，**180**天必须修改一次密码，你将提前一个月收到系统自动发送的提醒邮件,访问[my.password.bham.ac.uk](https://my.password.bham.ac.uk/)即可修改.
 
 ::: warning
 请注意,更改后的密码不可以与原密码相同
