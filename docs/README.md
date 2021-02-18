@@ -8,7 +8,7 @@ features:
     details: iUoB是一个完全的公益项目。
   - title: 多语言
     details: iUoB支持多语言。
-footer: MIT Licensed | Copyright © 2020-2021 iUoB. All rights reserved.
+footer: MIT Licensed | Copyright © 2020-2021 Harry Yep & iUoB Contributors. All rights reserved.
 ---
 
 

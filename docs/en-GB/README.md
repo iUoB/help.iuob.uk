@@ -8,7 +8,7 @@ features:
     details: iUoB is a complete public welfare project.
   - title: Multi-Language
     details: iUoB supports multiple languages.
-footer: MIT Licensed | Copyright © 2020-2021 iUoB. All rights reserved.
+footer: MIT Licensed | Copyright © 2020-2021 Harry Yep & iUoB Contributors. All rights reserved.
 ---
 
 
