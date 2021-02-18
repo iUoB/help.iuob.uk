@@ -25,6 +25,10 @@
 
 ### 伯明翰大学入学后
 
+::: tip
+在英国生活,这些公众号或能让你受益非浅,[点击查看](./others/WeChat/)推荐的公众号吧!
+:::
+
 - [账户密码问题](./enrolled/password/)
 
 - [常用解决方案](./enrolled/solutions/)
