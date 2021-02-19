@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: ./iUoB_Logo_RB.png
+heroImage: https://cdn.iuob.uk/help/iUoB_Logo_RB.png
 actionText: 阅读更多 →
 actionLink: /details/
 features:
