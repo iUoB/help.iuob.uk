@@ -11,6 +11,7 @@ features:
 footer: MIT Licensed | Copyright © 2020-2021 Harry Yep & iUoB Contributors. All rights reserved.
 ---
 
+想要了解更多内容,请访问[英国伯明翰大学官网](https://www.birmingham.ac.uk/)
 
 请选择您的语言进行阅读：
 - [British English](./en-GB/)

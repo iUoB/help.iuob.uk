@@ -11,6 +11,7 @@ features:
 footer: MIT Licensed | Copyright © 2020-2021 Harry Yep & iUoB Contributors. All rights reserved.
 ---
 
+If you want to know more about the University of Birmingham, please visit [University of Birmingham official website](https://www.birmingham.ac.uk/)
 
 Please select your language:
 - [British English](./)

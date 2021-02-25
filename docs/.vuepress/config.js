@@ -16,12 +16,12 @@ module.exports = {
     locales: {
         '/': {
             lang: 'zh-CN',
-            title: '帮助中心 | iUoB',
+            title: '帮助中心 - iUoB',
             description: '为你通往伯明翰大学的路上亮起明灯',
         },
         '/en-GB/': {
             lang: 'en-GB',
-            title: 'Help Center | iUoB',
+            title: 'Help Center - iUoB',
             description: 'Light up your way to the University of Birmingham',
         }
     },
@@ -71,6 +71,7 @@ module.exports = {
                 editLinks: true,
                 editLinkText: '在GitHub编辑此页面',
                 nav: [
+                    { text: '伯明翰大学官网', link: 'https://www.birmingham.ac.uk/' },
                     { text: '主页', link: '/' },
                     { text: '详情', link: '/details/' },
                     {
@@ -131,6 +132,7 @@ module.exports = {
                 editLinks: true,
                 editLinkText: 'Edit this page on GitHub',
                 nav: [
+                    { text: 'UoB Website', link: 'https://www.birmingham.ac.uk/' },
                     { text: 'Home', link: '/en-GB/' },
                     { text: 'Help', link: '/en-GB/details/' },
                     {
