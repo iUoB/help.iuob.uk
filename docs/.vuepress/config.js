@@ -80,6 +80,7 @@ module.exports = {
                         items: [{
                                 text: '入学前',
                                 items: [
+                                    { text: '详情', link: '/details/pre-admissions/' },
                                     { text: '录取相关', link: '/details/pre-admissions/admissions/' },
                                     { text: '联系方式', link: '/details/pre-admissions/contacts/' },
                                     { text: '其他', link: '/details/pre-admissions/others/' }
@@ -88,6 +89,7 @@ module.exports = {
                             {
                                 text: '入学后',
                                 items: [
+                                    { text: '详情', link: '/details/enrolled/' },
                                     { text: 'Solutions', link: '/details/enrolled/solutions/' },
                                     { text: '其他', link: '/details/enrolled/others/' }
                                 ]
@@ -95,6 +97,7 @@ module.exports = {
                             {
                                 text: '其他问题',
                                 items: [
+                                    { text: '详情', link: '/details/others/' },
                                     { text: '关键词查询', link: '/details/others/keywords/' },
                                     { text: '未整理问题', link: '/details/others/unorganized/' },
                                 ]
@@ -141,6 +144,7 @@ module.exports = {
                         items: [{
                                 text: 'Pre-Admissions',
                                 items: [
+                                    { text: 'Check Details', link: '/en-GB/details/pre-admissions/' },
                                     { text: 'Admissions', link: '/en-GB/details/pre-admissions/admissions/' },
                                     { text: 'Contacts', link: '/en-GB/details/pre-admissions/contacts/' },
                                     { text: 'Others', link: '/en-GB/details/pre-admissions/others/' }
@@ -149,6 +153,7 @@ module.exports = {
                             {
                                 text: 'Enrolled',
                                 items: [
+                                    { text: 'Check Details', link: '/en-GB/details/enrolled/' },
                                     { text: 'Solutions', link: '/en-GB/details/enrolled/solutions/' },
                                     { text: 'Others', link: '/en-GB/details/enrolled/others/' }
                                 ]
@@ -156,7 +161,8 @@ module.exports = {
                             {
                                 text: 'Others',
                                 items: [
-                                    { text: 'Unorganized Questions', link: '/details/others/unorganized/' },
+                                    { text: 'Check Details', link: '/en-GB/details/others/' },
+                                    { text: 'Unorganized Questions', link: '/en-GB/details/others/unorganized/' },
                                 ]
                             },
                             {
