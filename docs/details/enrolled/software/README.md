@@ -1,8 +1,8 @@
 # 伯明翰大学所提供的免费软件
 
-## Office
+## Microsoft Office
 
-学生在在读期间内可免费使用由伯明翰大学提供的Office套件授权,包括桌面版Word、Excel、Powerpoint等.
+学生在在读期间内可免费使用由伯明翰大学提供的Microsoft Office套件授权,包括桌面版Word、Excel、Powerpoint等.
 
 ::: details 使用(激活)方法
 请使用你的伯明翰大学个人账户和密码,登陆[Office](https://www.office.com/apps)查看可供使用的软件.
