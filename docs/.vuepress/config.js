@@ -1,4 +1,5 @@
 module.exports = {
+    theme: 'default-prefers-color-scheme',
     dest: 'public',
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }],
