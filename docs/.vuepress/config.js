@@ -217,7 +217,7 @@ module.exports = {
                         ariaLabel: 'Languages Menu',
                         items: [{
                                 text: '简体中文',
-                                link: 'https://help.iuob.uk/'
+                                link: '/'
                             },
                             {
                                 text: 'British English',
