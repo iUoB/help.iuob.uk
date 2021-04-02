@@ -5,9 +5,9 @@
 
 请点[此链接](./commonly-used-internal-websites/)查看
 
-## 账户/密码问题
+## 账户/密码/登陆问题
 
-请点[此链接](./password/)查看
+请点[此链接](./account/)查看
 
 ## 认证问题
 
