@@ -5,7 +5,7 @@
 :::
 
 ::: tip
-更多信息请访问学校[财务官网](https://intranet.birmingham.ac.uk/finance/index.aspx)
+更多信息请访问学校[财务官网](https://intranet.birmingham.ac.uk/finance/index.aspx)和[此网站](https://intranet.birmingham.ac.uk/finance/transaction-services/payment-options/bank-transfer.aspx)
 :::
 
 ## 缴费费用
@@ -20,3 +20,26 @@
 
 请[点此链接查看](../contacts/get-in-touch-with-the-payment-department)
 
+## 索要收据
+
+::: warning 请注意
+当且仅当你付完所有的费用后才能在此申请收据,请完整且正确填写你的个人信息
+
+收据将在3-5个工作日内发送给你
+:::
+
+请[点此链接索要收据](https://www.birmingham.ac.uk/forms/finance/request-a-receipt.aspx)
+
+## 其他问题
+
+### IBAN
+
+根据[官网](https://intranet.birmingham.ac.uk/finance/transaction-services/payment-options/bank-transfer.aspx)所示, IBAN为**GB61 LOYD 3019 1400 0147 06**(请自行前往官网确认,防止此处未及时更新而导致缴费失败)
+
+### SWIFT (BIC)
+
+根据[官网](https://intranet.birmingham.ac.uk/finance/transaction-services/payment-options/bank-transfer.aspx)所示, SWIFT/BIC为**LOYDGB21086**(请自行前往官网确认,防止此处未及时更新而导致缴费失败)
+
+### 在支付机构(如支付宝)转账时显示SWIFT/BIC后三位为***
+
+正常现象,在其他资料都正确的情况下,支付机构会自行补全收款方收款信息.
