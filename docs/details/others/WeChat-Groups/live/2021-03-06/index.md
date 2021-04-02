@@ -4,12 +4,6 @@
 住宿
 :::
 
-::: tip 直播回放
- [点此查看](https://bham-ac-uk.zoom.us/rec/share/aMBzAfMxQmxSdFT7F04KxAcCJc6t3nKxoohtv-d1WhGBzhW38b7RX4OobF045JjW.7_mDtKyjDoG3KWOj)
- 
- 访问密码: **请在群内查看**
-:::
-
 ## 直播内容
 
 1. 目前中介在饥饿营销，三四月份应该是不会房源紧张
