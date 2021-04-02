@@ -211,6 +211,19 @@ module.exports = {
                                 link: 'https://status.iuob.uk/'
                             }
                         ]
+                    },
+                    {
+                        text: '语言',
+                        ariaLabel: 'Languages Menu',
+                        items: [{
+                                text: '简体中文',
+                                link: 'https://help.iuob.uk/'
+                            },
+                            {
+                                text: 'British English',
+                                link: 'https://en.help.iuob.uk/'
+                            }
+                        ]
                     }
                 ],
                 sidebar: 'auto'
