@@ -1,4 +1,4 @@
-# 帮助中心导航
+# iUoB帮助中心导航
 
 请使用下面的按钮选择要查找的内容。
 
@@ -46,6 +46,8 @@
 
 [点击查看](./others/Recommended-Official-WeChat-Account/)
 :::
+
+- [留英生活常用联系方式](./others/Common-Used-Contacts-In-UK-Life)
 
 - [未整理问题](./others/unorganized/)
 
