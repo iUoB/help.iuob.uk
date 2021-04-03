@@ -8,10 +8,8 @@
 点击[此链接](./iUoB/submit/)提交或进行反馈。
 :::
 
-## 问题分类
 
-
-### 伯明翰大学入学前
+## 伯明翰大学入学前
 
 点击 👉 [此处](./pre-admissions/) 👈 查看更多有关**入学前常见问题分类**
 
@@ -27,13 +25,9 @@
 
 :::
 
-### 伯明翰大学入学后
+## 伯明翰大学入学后
 
 点击 👉 [此处](./enrolled/) 👈 查看更多有关**入学后常见问题分类**
-
-::: tip
-在英国留学和生活,这些公众号或能让你受益非浅,请[点此查看](./others/WeChat/)推荐的公众号吧!
-:::
 
 ::: details 常见问题分类
 
@@ -45,7 +39,13 @@
 
 :::
 
-### 其他
+## 其他
+
+::: tip
+在英国留学和生活,[这些](./others/Recommended-Official-WeChat-Account/)公众号或能让你受益非浅.
+
+[点击查看](./others/Recommended-Official-WeChat-Account/)
+:::
 
 - [未整理问题](./others/unorganized/)
 
@@ -57,7 +57,7 @@
 
 
 
-## iUoB
+## 关于iUoB
 
 - [下载iUoB软件](./iUoB/download/)
 
