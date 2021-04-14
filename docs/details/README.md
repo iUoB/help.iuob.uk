@@ -47,7 +47,9 @@
 [点击查看](./others/Recommended-Official-WeChat-Account/)
 :::
 
-- [留英生活常用联系方式](./others/Common-Used-Contacts-In-UK-Life)
+- [留英生活常用联系方式](./others/Common-Used-Contacts-In-UK-Life/)
+
+- [伯明翰学生公寓汇总](./others/Student-Accommodation-In-Birmingham/)
 
 - [未整理问题](./others/unorganized/)
 
