@@ -21,7 +21,7 @@
 | Studio    | Y        | Y        | N        | 大部分厨房与卧室连体    |
 | Twin Room     | Y        | N        | N        | 卧室有两张床                  |
 | Ensuite   | Y        | N        | N        |                         |
-| Campus   Room | N        | N        | N        | [学校分配](https://www.birmingham.ac.uk/study/accommodation/index.aspx)的部分房型只含有可供睡觉的单间,价格便宜,空间小于其他房型 |
+| Campus   Room | N        | N        | N        | [学校分配](https://www.birmingham.ac.uk/study/accommodation/index.aspx)的部分房型仅含有可供睡觉的单间,价格便宜,空间小于其他房型 |
 
 ### 其他问题
 
