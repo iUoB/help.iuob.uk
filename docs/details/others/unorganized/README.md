@@ -177,3 +177,6 @@ Google Play: https://play.google.com/store/apps/details?id=com.mydaycloud.app.bi
 想要在伦敦伯明翰机场(BHX)接机的: https://www.birmingham.ac.uk/welcome/2020/Travel/Birmingham-Airport-Collections.aspx
 
 目前只提供这两个机场在9月5日至9月21日接机,其他机场暂不支持!
+
+## 学费可以分期吗
+分期介绍: https://www.birmingham.ac.uk/undergraduate/fees/pay-tuition/direct-debit.aspx ，申请链接: https://epay.bham.ac.uk/edd ，学费分期只能使用英国卡，有手续费，且需设置Direct Debit，Direct Debit可以理解为设置银行卡付款信息后按时自动扣款的流程
