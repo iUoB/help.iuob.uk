@@ -43,3 +43,17 @@
 ### 在支付机构(如支付宝)转账时显示SWIFT/BIC后三位为***
 
 正常现象,在其他资料都正确的情况下,支付机构会自行补全收款方收款信息.
+
+根据[官网](https://intranet.birmingham.ac.uk/finance/transaction-services/payment-options/bank-transfer.aspx)所示, IBAN为**GB61 LOYD 3019 1400 0147 06**(请自行前往官网确认,防止此处未及时更新而导致缴费失败)
+
+### 学费可以分期付款吗?
+
+可以分期
+
+满足以下条件即可
+1. 有英国银行卡
+2. 英国银行卡开通Direct Debit
+
+手续费不超过1%
+
+详情: [https://www.birmingham.ac.uk/undergraduate/fees/pay-tuition/direct-debit.aspx](https://www.birmingham.ac.uk/undergraduate/fees/pay-tuition/direct-debit.aspx)
