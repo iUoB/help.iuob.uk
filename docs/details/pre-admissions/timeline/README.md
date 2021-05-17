@@ -46,7 +46,7 @@
 
 ### 学生拒绝Conditional Offer
 
-## 学生按照Conditional Offer要求,完成/达到相关评定结果
+## 学生按照Conditional Offer要求,完成/达到相关评定要求
 
 #### 具体评定内容
 1. 考试成绩 (本科生需要提供在校成绩,硕士需要提供本科成绩)
