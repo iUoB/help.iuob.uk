@@ -3,7 +3,7 @@
 [[toc]]
 
 ::: warning 时间线
-从申请到入学完整的时间线,请点击[此处](./pre-admissions/timeline/)查看
+从申请到入学完整的时间线,请点击[此处](./timeline/)查看
 :::
 
 ## 联系方式
