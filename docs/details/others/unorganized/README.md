@@ -46,10 +46,6 @@ http://url.iuob.uk/GovUK-Transfer-Visa
 
 请看 http://url.iuob.uk/UoB-Schengen-Visa
 
-## 免费Office套件？Word, Excel, PowerPoint
-
-使用学校账户登入 http://url.iuob.uk/office 下载使用
-
 ## 硕士入学要求？PG entry requirements?
 
 https://url.iuob.uk/UoB-PG-Entry-Req
@@ -62,17 +58,13 @@ https://url.iuob.uk/UoB-PG-Entry-Req
 
 https://brill.com/view/serial/HSS
 
-## 学费Invoice上面为何Swift Code后三位为XXX，对我交学费影响吗
-
-没有影响，Swift Code和IBAN都是定位收款者的必要信息，XXX为分行代码，银行电汇时不需要填写具体数值，如果你是使用支付宝跨境汇款缴纳学费，XXX会自动改变为086
-
 ## 为什么BRP的寄送地址和我填写的不一样
 
 BRP如果寄送到学校，请使用学校ACL Code: 2HE322，BRP由UKVI发出，寄出后你将会收到一封名为Your biometric card is on its way的邮件，上面的邮编虽然与你填写的不同，但这是学校收BRP的统一邮编地址（B15 3SZ），所以不必担心
 
 ## 我注册成功了吗
 
-完成注册后，你将会收到标题为Registration Confirmation for Academic Session 2020/21的邮件
+完成注册后，你将会收到标题为Registration Confirmation for Academic Session 的邮件
 
 ## uncon和CAS下发时限已经超过我所说的了，怎么办，我该怎么做，是不是没书读了
 
