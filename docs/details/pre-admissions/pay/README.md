@@ -1,5 +1,7 @@
 # 伯明翰大学缴费问题
 
+[[toc]]
+
 ::: warning
 为防止被搜索引擎收录，请在打开文件时使用密码：**iUoB**。
 :::
@@ -8,7 +10,7 @@
 更多信息请访问学校[财务官网](https://intranet.birmingham.ac.uk/finance/index.aspx)和[此网站](https://intranet.birmingham.ac.uk/finance/transaction-services/payment-options/bank-transfer.aspx)
 :::
 
-## 缴费费用
+## 缴费费用说明
 
 学校缴费基本分为两个部分，第一个是**学费缴纳**，另外一个是**住宿缴纳**。
 
@@ -16,7 +18,26 @@
 如无特殊说明，则两者共用同一收款信息，请点击此处下载[收款信息](https://download.iuob.uk/Documents/Pay/UoB-Financial-Particulars-Student-Income.pdf)文件。
 :::
 
-## 联系方式
+## 如何缴纳
+
+### 电汇缴纳
+
+下载上面“缴费费用说明”里的文件,通过银行/支付宝等支持电汇的机构进行缴纳.
+
+### 刷卡缴纳
+
+::: warning
+请在缴纳前查看相关汇率,并确保卡内有足够金额/额度
+:::
+
+1. 打开[缴费网站](https://epay.bham.ac.uk/)
+2. 输入相关个人信息
+3. 输入金额
+4. 输入卡号
+5. 完成缴费
+6. 收到邮件确认
+
+## 联系相关部门
 
 请[点此链接查看](../contacts/get-in-touch-with-the-payment-department)
 
