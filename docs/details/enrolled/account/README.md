@@ -33,6 +33,20 @@
 请注意,更改后的密码不可以与原密码相同
 :::
 
+## 默认密码失效
+
+::: tip 提示
+需要特殊环境下才可正常提交
+:::
+
+请按照以下步骤向学校提出修改申请
+1. 访问[IT服务网站](https://universityofbirmingham.service-now.com/itportal/?id=uob_cannotlogin)
+2. 点击Contact Us
+3. 填写所有个人信息(尽量填写所有知道的内容)
+4. 填写问题内容
+5. 提交
+
+
 ## 手机软件MyUoB无法登陆
 
 请尝试使用[MyUoB网页端](https://myuob.bham.ac.uk/)
