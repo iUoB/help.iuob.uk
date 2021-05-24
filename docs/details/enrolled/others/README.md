@@ -12,14 +12,6 @@
 * 本科生(UG): 
 * 研究生(PG): 大部分9月入学,次年9月交论文,12月拿毕业证
 
-## 奖学金
-
-::: warning
-待完善
-:::
-
-基本无
-
 ## 伯明翰警局注册链接
 
 https://west-midlands.overseasregistrations.uk/
@@ -32,7 +24,7 @@ BRP成功寄送到学校地址后，学校会在两周内发送标题为 IMPORTA
 
 ## Welcome Week？
 
-2020年入学Welcome Week时间为9月21-21日
+2021年入学Welcome Week时间为9月20-26日
 
 部分专业已经发送welcome week的timetable到学生邮箱里，希望自己注册 welcome 的活动请访问 https://welcome.birmingham.ac.uk/
 
@@ -46,12 +38,6 @@ BRP成功寄送到学校地址后，学校会在两周内发送标题为 IMPORTA
 
 伯明翰警察局给出的信息: http://url.iuob.uk/Bham-Police-Reg-Info
 
-## 我交完费了,如何向学校索取receipt?
-
-请使用 http://url.iuob.uk/UoB-Receipt
-
-或者发邮件到 studentpayments@bham.ac.uk
-
 ## transfer visa?
 
 http://url.iuob.uk/GovUK-Transfer-Visa
@@ -59,10 +45,6 @@ http://url.iuob.uk/GovUK-Transfer-Visa
 ## 申根签证怎么办？Schengen Visa
 
 请看 http://url.iuob.uk/UoB-Schengen-Visa
-
-## 硕士入学要求？PG entry requirements?
-
-https://url.iuob.uk/UoB-PG-Entry-Req
 
 ## 学校宿舍会提供床上用品吗？（枕头，被子等）
 
@@ -128,42 +110,6 @@ BRP如果寄送到学校，请使用学校ACL Code: 2HE322，BRP由UKVI发出，
 
 请看学校介绍：https://intranet.birmingham.ac.uk/student/student-hub/solution.aspx?NodeId=4538
 
-## 学校邮箱可以用来做什么
-
-学校会不定期发关于校内大小事务邮件给你，学院也会，请注意，学校发来的每一封邮件都请细心查看
-
-Canvas是也会有课程信息发送给你
-
-除此之外，还可以用来申请学生优惠等
-
-## 学校邮箱的账号密码是什么
-
-就是你登陆 my.bham.ac.uk 的账号密码
-
-## 学校使用的邮箱是什么
-
-Microsoft Outlook，登陆邮箱地址，outlook.bham.ac.uk
-
-## 该交学费了，但我之前交了押金，我应该怎么做？
-
-交学费时减去已经缴纳的押金即可
-
-## 我收到CAS了，但是我发现有错误怎么办？
-
-立马找Live Chat说明你的CAS出现的问题并寻求解决方式，如果Live Chat未能帮助你解决问题，请发邮件到 birmingham-admissions-cas@contacts.bham.ac.uk （此邮件仅供收到CAS的同学咨询CAS问题，其他问题和没收到CAS的同学问的问题将不会被回复）
-
-## 我没有收到学校发的问卷怎么办？
-
-问卷并不是每个人都有，随机发送的，没有收到无需理睬，已经收到但是错过填写时间的同学可以按照上面所说的进行操作，当然，不操作也不影响你上学
-
-## 使用银行电汇，填了XXX显示不出来收款人怎么办？
-
-一般来说填写XXX就行，如果不行，那就请将XXX改成086
-
-## 我想交学费了，收款人信息怎么填？
-
-请看文档[UoB-Financial-Particulars-Student-Income](https://download.iuob.uk/Public/UoB-Financial-Particulars-Student-Income.pdf)
-
 ## 学校有手机软件吗?
 
 MyUoB
@@ -176,15 +122,3 @@ Google Play: https://play.google.com/store/apps/details?id=com.mydaycloud.app.bi
 
 和电汇到学校账户一样，英国银行开户后，你会得到自己银行账号的IBAN和Swift Code，其他操作与电汇缴纳学费无差异
 
-## 2020学校接机
-
-关于接机的介绍,请看: https://www.birmingham.ac.uk/welcome/2020/Travel/Airport-Collections.aspx
-
-想要在伦敦希思罗机场(LHR)接机的: https://www.birmingham.ac.uk/welcome/2020/Travel/Heathrow-Airport-Collections.aspx
-
-想要在伦敦伯明翰机场(BHX)接机的: https://www.birmingham.ac.uk/welcome/2020/Travel/Birmingham-Airport-Collections.aspx
-
-目前只提供这两个机场在9月5日至9月21日接机,其他机场暂不支持!
-
-## 学费可以分期吗
-分期介绍: https://www.birmingham.ac.uk/undergraduate/fees/pay-tuition/direct-debit.aspx ，申请链接: https://epay.bham.ac.uk/edd ，学费分期只能使用英国卡，有手续费，且需设置Direct Debit，Direct Debit可以理解为设置银行卡付款信息后按时自动扣款的流程

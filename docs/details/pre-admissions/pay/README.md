@@ -1,5 +1,6 @@
 # 伯明翰大学缴费问题
 
+## 目录
 [[toc]]
 
 ::: tip
@@ -75,6 +76,7 @@
 
 成功申请后你将收到确认邮件, 收据将在3-5个工作日内发送给你
 
+
 ## 其他问题
 
 ### IBAN
@@ -93,10 +95,24 @@
 
 ### 学费可以分期付款吗?
 
-可以分期,需满足以下条件
-1. 有英国银行卡
-2. 英国银行卡开通Direct Debit
-
-手续费不超过1%
-
 详情: [https://www.birmingham.ac.uk/undergraduate/fees/pay-tuition/direct-debit.aspx](https://www.birmingham.ac.uk/undergraduate/fees/pay-tuition/direct-debit.aspx)
+
+申请链接: [https://epay.bham.ac.uk/edd](https://epay.bham.ac.uk/edd)
+
+可以分期,需满足以下条件
+1. 有英国银行卡(不接受除英国银行卡以外的银行卡)
+2. 英国银行卡开通Direct Debit<sup>*</sup>
+3. 有手续费,且不超过付款总额的1%
+
+<sup>*</sup> Direct Debit: 可以理解为设置银行卡付款信息后按时自动扣款的流程
+
+### 之前交了押金，剩下的学费怎么计算？
+
+交学费时减去已经缴纳的押金即可
+
+### 交完学费后,如何向学校索取receipt?
+
+1. 填写此[表格](https://www.birmingham.ac.uk/forms/finance/request-a-receipt.aspx)
+2. 发邮件到 [studentpayments@bham.ac.uk](mailto:studentpayments@bham.ac.uk)
+
+学校收到相关信息后,会在3个工作日内处理你的请求
