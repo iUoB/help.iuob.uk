@@ -85,15 +85,17 @@ IHS付款后可享受基本的免费NHS<sup>*</sup> 服务
 
 ### IHS费用计算方式
 
-本科3年就需要交3.5年的IHS费用，4年就需要交4.5年的IHS费用
+一直以来,IHS费用遵循 $n + 0.5$ 的政策
 
-硕士1年就需要交1.5年的IHS费用，以此类推
+* 本科3年就需要交3.5年的IHS费用，4年就需要交4.5年的IHS费用
+* 硕士1年就需要交1.5年的IHS费用
+* 以此类推
 
-自主查询你需要付多少IHS费用: https://www.immigration-health-surcharge.service.gov.uk/checker/Type
+英国政府[IHS费用查询官网](https://www.immigration-health-surcharge.service.gov.uk/checker/Type)
 
 ### IHS和签证费可以使用支付宝吗
 
-填写完签证资料后，需要先付IHS再付签证费，均可使用支付宝支付，付完款后才可，查看可用的递签时间并预约递签
+可以
 
 ### 预约签证时，UKVI网站上填写的递签地区填错了，vfs网站上填写的递签地区也填错了，怎么办？
 

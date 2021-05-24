@@ -58,17 +58,6 @@ BRP如果寄送到学校，请使用学校ACL Code: 2HE322，BRP由UKVI发出，
 
 完成注册后，你将会收到标题为Registration Confirmation for Academic Session 的邮件
 
-## uncon和CAS下发时限已经超过我所说的了，怎么办，我该怎么做，是不是没书读了
-
-受疫情影响，学校相关工作人员在家办工，效率当然没有在学校办公高，相信大部分学生也不能按照学校计划开课时间到达，所以不要着急，你所上交的材料是合格的话，那就不需要再做一些无意义的事情了，开学时间临近，好好享受这剩下的一个月吧，也请满怀期待迎接你们即将到来的学习生涯
-
-## uncon和CAS什么时候下发
-
-一般来说，CAS会在uncon下来后的10个日历日下发，uncon会在满足con条件后的15个工作日下发
-
-## 学校20/21安排
-
-参考学校网站: https://www.birmingham.ac.uk/welcome/2020/wellbeing/parents/key-dates.aspx
 
 ## 我需要警局注册，但是我要隔离怎么办
 
@@ -92,5 +81,5 @@ Google Play: https://play.google.com/store/apps/details?id=com.mydaycloud.app.bi
 
 ## 如何购买英镑存入自己英国账户
 
-和电汇到学校账户一样，英国银行开户后，你会得到自己银行账号的IBAN和Swift Code，其他操作与电汇缴纳学费无差异
+请参考电汇付学费的方式
 
