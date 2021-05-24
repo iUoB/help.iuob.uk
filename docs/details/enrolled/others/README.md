@@ -38,10 +38,6 @@ BRP成功寄送到学校地址后，学校会在两周内发送标题为 IMPORTA
 
 伯明翰警察局给出的信息: http://url.iuob.uk/Bham-Police-Reg-Info
 
-## transfer visa?
-
-http://url.iuob.uk/GovUK-Transfer-Visa
-
 ## 申根签证怎么办？Schengen Visa
 
 请看 http://url.iuob.uk/UoB-Schengen-Visa
@@ -74,29 +70,8 @@ BRP如果寄送到学校，请使用学校ACL Code: 2HE322，BRP由UKVI发出，
 
 参考学校网站: https://www.birmingham.ac.uk/welcome/2020/wellbeing/parents/key-dates.aspx
 
-## 预约签证时，UKVI网站上填写的递签地区填错了，vfs网站上填写的递签地区也填错了，怎么办？
 
-取消，要求退款，重新填写资料，重新预约，退款时间较慢，预计一个月内完成退款
 
-## 预约签证时，UKVI网站上填写的递签地区填错了，我在vfs网站能选其他地方递签吗
-
-可以
-
-## IHS和签证费可以使用支付宝吗
-
-填写完签证资料后，需要先付IHS再付签证费，均可使用支付宝支付，付完款后才可，查看可用的递签时间并预约递签
-
-## IHS费用计算方式
-
-本科3年就需要交3.5年的IHS费用，4年就需要交4.5年的IHS费用
-
-硕士1年就需要交1.5年的IHS费用，以此类推
-
-自主查询你需要付多少IHS费用: https://www.immigration-health-surcharge.service.gov.uk/checker/Type
-
-## 我已经付完学费了，但是我还没有去存款办签证，我是不是可以少存一些钱
-
-是的，请看学校关于存款的简介: https://www.birmingham.ac.uk/International/students/visas/moneystudent.aspx，关于你还需要存多少钱请看英国Home Office的T4指南: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/843003/T4_Migrant_Guidance_October_2019.pdf，Money for living costs章，编号125
 
 ## 我需要警局注册，但是我要隔离怎么办
 

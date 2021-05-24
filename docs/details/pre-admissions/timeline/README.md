@@ -77,40 +77,14 @@ Unconditional Offer统一在CAS之前下发, 时间为每年4月至9月.
 :::
 
 ### 存款
-需在办理签证的前28天银行存入定期存款,一般来说,在收到Unconditional Offer前后就需要将保证金存入银行
-
-保证金证明是抽查的,如果被查到,需要提交证明
-
-::: warning
-推荐将存款存入大型银行,不要存入农村银行、农村商业银行、信用社、市级银行等在国际上没有什么知名度的银行,存款证明或不被签证中心接受
-:::
 
 ### 肺结核体检 (TB)
 
-::: tip
-请访问[英国政府肺结核检测官方网站](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-china/approved-tuberculosis-testing-clinics-in-china)了解更多关于肺结核检测 (TB) 有关内容
-:::
-
-肺结核检测基本都是当日出结果,结果证明需要保存好,递交签证是需要提供
-
-推荐文章:
-1. [https://zhuanlan.zhihu.com/p/74455112](https://zhuanlan.zhihu.com/p/74455112)
-
 ### 预约签证
-
-::: tip
-请访问[英国政府官方网站](https://www.gov.uk/government/publications/apply-for-a-uk-visa-in-china)了解更多有关预约签证内容
-:::
-
-推荐文章:
-1. [https://zhuanlan.zhihu.com/p/76802210](https://zhuanlan.zhihu.com/p/76802210)
-2. [https://mp.weixin.qq.com/s/zfRuKFyzPM5I5dEuM8RKwQ](https://mp.weixin.qq.com/s/zfRuKFyzPM5I5dEuM8RKwQ)
 
 ### 签证&IHS付款
 
 ### 递交签证
-
-签证平均审理周期为3周,可以加钱加急审理,但是不保证审理结果一定为通过.
 
 ### 收到签证
 
