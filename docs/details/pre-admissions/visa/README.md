@@ -75,6 +75,10 @@ IHS付款后可享受基本的免费NHS<sup>*</sup> 服务
 
 是的
 
+假设你的学费为25000英镑,根据[英国政府文件](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/976139/student-route-casework-guidance-v3.0-ext.pdf)每月生活费为1023英镑(包括住宿费),存款应当为 $25,000 + 9 \times 1,023 = 34,207$ 英镑
+
+实际上,你已经付完学费,那么你只需要存入 $34,207 - 25000 = 9 \times 1,023 = 9207$ 英镑即可
+
 ### 为什么要交IHS费用?
 
 支付IHS费用后,在英国看病是不需要支付看病费的,但是针对于某些服务仍然需要付费

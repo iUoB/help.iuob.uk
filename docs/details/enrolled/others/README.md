@@ -70,9 +70,6 @@ BRP如果寄送到学校，请使用学校ACL Code: 2HE322，BRP由UKVI发出，
 
 参考学校网站: https://www.birmingham.ac.uk/welcome/2020/wellbeing/parents/key-dates.aspx
 
-
-
-
 ## 我需要警局注册，但是我要隔离怎么办
 
 先隔离，后拿BRP，再注册，不用担心时间限制
