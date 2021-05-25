@@ -45,6 +45,10 @@
 ### 直接付款(针对2021入读语言班的同学)
 
 ::: tip 提示
+更多有关语言班付款的内容,请参考[学校官网](https://www.birmingham.ac.uk/International/bia/payment-info.aspx)
+:::
+
+::: tip 提示
 与刷卡缴纳基本相同,请在缴纳前查看相关汇率,并确保卡内有足够金额/额度
 :::
 
