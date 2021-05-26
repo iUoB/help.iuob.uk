@@ -1,8 +1,9 @@
 # 伯明翰大学入学后常见问题解决方案
 
-### 这里提供了众多问题的解决方案，可以在下面寻找，或者用搜索框进行搜索。
+---
 
+* [使用伯明翰大学SSO登陆Zoom.us](./post/Access-Zoom.us-via-SSO/)
 
-* [Access Zoom.us via SSO](./post/Access-Zoom.us-via-SSO/)
+* [使用Kortext访问伯明翰大学相关课程电子课本(eBook)](./post/Access-eBook-via-Kortext/)
 
-* [Access eBook via Kortext](./post/Access-eBook-via-Kortext/)
+* [查找自己专业所属学院以及课程详情](./post/Find-My-Courses/)
