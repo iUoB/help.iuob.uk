@@ -57,6 +57,19 @@ The Toybox, Bishopgate Street, Birmingham, B15 1ET
 * salesenquiries@wearehomesforstudents.com
 :::
 
+### Altura Birmingham - Sodexo Student Living
+::: details 点击查看更多信息
+官网: [https://alturabirmingham.com/](https://alturabirmingham.com/)
+
+地址: 
+
+Altura Birmingham, 160 Bath Row, Birmingham, B15 1NR
+
+联系方式: 
+* +44 (0)121 622 4990
+* altura.uk@studentliving.sodexo.com
+:::
+
 ### 88 Bromsgrove House - Prestige Student Living
 ::: details 点击查看更多信息
 官网: [https://prestigestudentliving.com/student-accommodation/birmingham/88-bromsgrove-house](https://prestigestudentliving.com/student-accommodation/birmingham/88-bromsgrove-house)
