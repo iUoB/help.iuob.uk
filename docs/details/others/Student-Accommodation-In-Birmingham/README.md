@@ -59,7 +59,9 @@ The Toybox, Bishopgate Street, Birmingham, B15 1ET
 
 ### Altura Birmingham - Sodexo Student Living
 ::: details 点击查看更多信息
-官网: [https://alturabirmingham.com/](https://alturabirmingham.com/)
+官网: 
+* [https://alturabirmingham.com/](https://alturabirmingham.com/)
+* [https://www.studentliving.sodexo.com/birmingham/altura](https://www.studentliving.sodexo.com/birmingham/altura)
 
 地址: 
 
