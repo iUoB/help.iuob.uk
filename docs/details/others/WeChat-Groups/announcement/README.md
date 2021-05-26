@@ -168,9 +168,9 @@ https://help.iuob.uk/details/others/WeChat-Groups/live/
 今日直播回顾
 https://help.iuob.uk/details/others/WeChat-Groups/live/2021-05-23/
 
-
 往期直播回顾
 https://help.iuob.uk/details/others/WeChat-Groups/live/
+
 
 ## 2021-05-22
 
@@ -185,3 +185,86 @@ https://help.iuob.uk/details/others/WeChat-Groups/live/
 2. 直接付款. 通过epay.bham.ac.uk进行付款,详情请看https://help.iuob.uk/details/pre-admissions/pay/
 3. 直接付款(新). 通过https://shop.bham.ac.uk/product-catalogue/birmingham-international-academy/courses-for-international-students/presessional-english-language-programmes-from-summer-2021 进行付款, 需要选择对应的语言班课程注册新账号付款,伯明翰大学学生账户是无法直接登陆的.
 4. 线下付款(暂不接受).
+
+## 2021-05-17
+
+### 公告1
+
+入读伯明翰大学完整时间线
+
+* 向伯明翰大学提交入学申请
+    * 本科
+    * 硕士
+* 学校收到入学申请
+    * 本科
+    * 硕士
+* 学校下发申请结果
+    * 学校同意申请, 下发Conditional Offer,学生收到Offer, 学生考虑
+    * 学校拒绝申请, 与伯明翰大学无缘
+* 学生提交申请结果
+    * 学生同意Conditional Offer
+    * 学生拒绝Conditional Offer
+* 学生按照Conditional Offer要求,完成/达到相关评定结果
+* 学生所有评定结果达标,上传证明,等待Unconditional Offer下发
+* 学生收到Unconditional Offer
+* 订房
+* 学生收到CAS (Confirmation of Acceptance for Studies)
+* 办理签证 (T4 General Student Visa)
+    * 存款
+    * 肺结核体检 (TB)
+    * 预约签证
+    * 签证&IHS付款
+    * 递交签证
+    * 收到签证
+* 购买机票
+* 警局注册
+* 剩下的自己搞定
+
+详情请看: https://help.iuob.uk/details/pre-admissions/timeline/
+
+往期直播回顾请看: https://help.iuob.uk/details/others/WeChat-Groups/live/
+
+## 2021-05-10
+
+### 公告1
+
+今日直播回顾
+https://help.iuob.uk/details/others/WeChat-Groups/live/2021-05-09/
+
+往期直播回顾
+https://help.iuob.uk/details/others/WeChat-Groups/live/
+
+## 2021-04-15
+
+### 公告1
+
+- 直播回顾 
+上周(4月11日)直播答疑的回顾(自由答疑 室外游览 生活)
+https://help.iuob.uk/details/others/WeChat-Groups/live/2021-04-11/
+
+很多学生关心的学生公寓问题请看3月13日直播回顾 https://help.iuob.uk/details/others/WeChat-Groups/live/2021-03-13/
+
+
+- 学生公寓
+
+常见的学生公寓联系方式和官网现已整理好,请访问
+https://help.iuob.uk/details/others/Student-Accommodation-In-Birmingham/
+
+里面包含了:
+1. 房型问题
+2. 近市中心归类
+3. 近伯大归类
+
+如果里面没提到的学生公寓可能
+1. 距离太远,基本没有伯大学生住
+2. 太旧了
+3. 我没听过
+4. 还没开始写
+5. 我忘写了
+
+如果你想住在我在里面没有提到的学生公寓或者有其他问题直接在群里问就行了
+
+- 常用网站
+
+入学前后常用的学校网站汇总在这里
+https://help.iuob.uk/details/enrolled/commonly-used-internal-websites/
