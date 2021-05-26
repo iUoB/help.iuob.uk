@@ -4,6 +4,10 @@
 学校许多联系入口暂未开放，当后续开放时，这里将会同步更新。
 :::
 
+:::
+有关申请事宜,请优先使用伯明翰大学官方[Live Chat](https://www.birmingham.ac.uk/campaigns/contact/live-chat.aspx),与学校进行沟通
+:::
+
 
 [与伯明翰大学招生办取得联系](./get-in-touch-with-the-admissions-office)
 
