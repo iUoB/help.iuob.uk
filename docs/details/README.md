@@ -39,6 +39,8 @@
 
 - [直播回顾](./others/WeChat-Groups/live/)
 
+- [群内公告](./others/WeChat-Groups/announcement/)
+
 - [群关键词查询](./others/WeChat-Groups/keywords/)  (暂未启用)
 
 
