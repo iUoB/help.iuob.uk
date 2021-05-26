@@ -3,6 +3,16 @@
 [[toc]]
 
 
+## 2021-05-28
+
+### 公告1
+
+群内往期公告记录
+
+请查看
+https://help.iuob.uk/details/others/WeChat-Groups/announcement/
+
+
 ## 2021-05-27
 
 ### 公告1
