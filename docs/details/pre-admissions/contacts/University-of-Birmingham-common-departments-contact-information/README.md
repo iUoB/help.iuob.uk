@@ -3,11 +3,11 @@
 以下为伯明翰大学常用部门联系邮箱
 
 ::: tip 提醒
-未防止邮件地址被收录，已将邮件地址屏蔽处理，如果你无法查看详情，请访问[这里](./University-of-Birmingham-common-departments-contact-information-full-list)访问完整列表。
+未防止邮件地址被收录，已将邮件地址屏蔽处理，如果你无法查看详情，请访问[这里](./../University-of-Birmingham-common-departments-contact-information-full-list)访问完整列表。
 :::
 
 ::: tip 提示
-如果找不到你想寻找的部门，请使用[此链接](../../iUoB/submit/)提交反馈，我们将尽快添加。
+如果找不到你想寻找的部门，请使用[此链接](../../../iUoB/submit/)提交反馈，我们将尽快添加。
 :::
 
 
