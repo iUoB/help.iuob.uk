@@ -7,16 +7,54 @@
 [[toc]]
 
 
-## 2021-05-28
+
+
+## 2021-05-27
 
 ### 公告1
+
+有关疫苗接种的事项
+
+
+如果你有意愿接种疫苗, 请继续阅读
+
+针对8、9月想要去英国的同学, 请尽快接种疫苗
+
+希望在广东省接种的同学, 请尽快接种疫苗
+
+广东省疫苗短缺, 但针对第一针疫苗暂停接种的消息, 现已确认为不实信息, 请看辟谣
+https://mp.weixin.qq.com/s/byHA7m09mWfhm6ZTUZ4RfQ
+
+如果你想尽快接种疫苗, 经多次沟通确认, 留学生将可以**优先免排队**接种疫苗
+
+请先与附近的社区进行联系, 询问有关当日是否有疫苗接种的安排, 请听从社区指示, 带齐证明留学生身份的有关证明, 包括但不限于
+
+* 录取通知书(Offer)
+* 学生证
+* 缴费通知书
+* 缴费成功证明
+* 语言班在读证明
+* 在校学生证明
+* BRP
+* T4 Visa
+* 机票预定证明
+* 由原学校开具的确认出国留学证明
+
+⚠️目前没有政策指出, 出国人员必须接种哪种疫苗, 必须接种多少针
+⚠️疫苗接种需相隔28-56天, 请自行安排时间
+⚠️如果仍未接种完HPV, 请先完全接种后, 再接种新冠疫苗, 两者时间至少相隔2周, 请看
+http://wjw.sz.gov.cn/yqxx/content/post_8471925.html
+
+如果你仍有疫苗相关问题, 请及时联系最近的疫苗接种社区门诊咨询
+
+### 公告2
 
 群内往期公告记录
 
 请查看
 https://help.iuob.uk/details/others/WeChat-Groups/announcement/
 
-### 公告2
+### 公告3
 
 有关伯明翰大学中国行前说明会的再次通知
 
@@ -34,7 +72,7 @@ https://help.iuob.uk/details/others/WeChat-Groups/announcement/
 ![图一](https://cdn.iuob.uk/help/details/others/WeChat-Groups/announcement/2021-05-27/announcement-2/1.jpeg)
 ![图二](https://cdn.iuob.uk/help/details/others/WeChat-Groups/announcement/2021-05-27/announcement-2/2.jpeg)
 
-## 2021-05-27
+## 2021-05-26
 
 ### 公告1
 
