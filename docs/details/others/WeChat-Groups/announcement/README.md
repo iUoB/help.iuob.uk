@@ -16,6 +16,23 @@
 请查看
 https://help.iuob.uk/details/others/WeChat-Groups/announcement/
 
+### 公告2
+
+有关伯明翰大学中国行前说明会的再次通知
+
+
+请注意查看有关确认邮件信息, 
+
+* 如果收到图一, 则代表你已取得行前说明会资格, 相关地点信息将以邮件形式发送至申请邮箱
+
+* 如果收到图二, 则代表你未取得行前说明会资格, 将无法参加行前说明会
+
+线下人数全满, 现在报名已经无法取得资格
+
+线下是签到机制, 未报名直接参加将无法进入会场
+
+![图一](https://cdn.iuob.uk/help/details/others/WeChat-Groups/announcement/2021-05-27/announcement-2/1.jpeg)
+![图二](https://cdn.iuob.uk/help/details/others/WeChat-Groups/announcement/2021-05-27/announcement-2/2.jpeg)
 
 ## 2021-05-27
 
