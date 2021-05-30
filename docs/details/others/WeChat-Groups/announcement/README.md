@@ -28,7 +28,7 @@
 
 附: 发件者邮件被拒收提示(服务提供商: 网易)
 
-![2021-05-30-公告1-图1](https://cdn.iuob.uk/help/details/others/WeChat-Groups/announcement/2021-05-27/announcement-1/1.png)
+![2021-05-30-公告1-图1](https://cdn.iuob.uk/help/details/others/WeChat-Groups/announcement/2021-05-30/announcement-1/1.png)
 
 ### 公告2
 
