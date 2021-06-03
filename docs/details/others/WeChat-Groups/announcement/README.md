@@ -6,6 +6,70 @@
 
 [[toc]]
 
+## 2021-06-03
+
+### 公告1
+
+有关校园账号登陆、校园软件下载的公告
+
+
+用户名: abc007@student.bham.ac.uk (abc007是你收到注册邮件的用户名)
+密码: 默认密码(请更改)
+
+所有和学校有关的登陆都需要使用以上用户名和密码
+
+更多账户问题请看: https://help.iuob.uk/details/enrolled/account/
+
+
+学校主要用到的手机软件
+
+Canvas:
+
+下载链接:
+
+Apple:  
+https://apps.apple.com/gb/app/canvas-student/id480883488
+
+Android:  
+https://play.google.com/store/apps/details?id=com.instructure.candroid
+
+其他设备: 
+
+https://apps.iuob.pl/Apps/Mobile/Canvas/Canvas_v6.11.1.apk  (临时下载链接) 
+
+MyUoB: 
+下载链接:
+
+Apple:  
+https://apps.apple.com/gb/app/myuob/id1462294596
+
+Android:  
+https://play.google.com/store/apps/details?id=com.mydaycloud.app.birmingham
+
+其他设备:
+
+https://apps.iuob.pl/Apps/Mobile/MyUoB/MyUoB_v3.1.34.apk (临时下载链接) 
+
+Outlook(邮箱软件):
+
+下载链接:
+
+Apple:  
+https://apps.apple.com/gb/app/microsoft-outlook/id951937596
+
+Android:  
+https://play.google.com/store/apps/details?id=com.microsoft.office.outlook
+
+其他设备: 
+
+各大手机应用商城商店直接搜索下载
+
+更多可能用到的手机软件请看: https://help.iuob.uk/details/enrolled/apps/
+
+如果临时链接无法下载, 请自行查找可用方式下载相关软件
+
+如果你的非苹果手机连最基本的Google系应用(Google Play Store, Google Chrome, Gmail等)都无法正常下载/访问, 请自行搜索参考相关教程或尽快更换你的手机
+
 ## 2021-05-30
 
 ### 公告1
