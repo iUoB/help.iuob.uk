@@ -6,6 +6,36 @@
 
 [[toc]]
 
+## 2021-06-04
+
+### 公告1
+
+所有有关学生账户问题, 根据学校相关规定(附1、2), 请自行处理解决
+
+账户问题包括但不局限于:
+* 更改密码
+* 无法登陆
+* 账户失效
+* 无法使用Canvas、Zoom
+
+解决方式:
+* 致电: +44 121 414 7171
+* 邮件: studenthelp@contacts.bham.ac.uk
+* Live Chat (附3): 学校账户登陆后使用
+
+学生账户仅属于学生本人, 任何人没有访问他人学生账户的权利
+
+从即刻起暂停有关账户问题的协助及处理
+
+附(4)主要账户问题的处理方案总结
+
+
+附:
+1. https://www.birmingham.ac.uk/privacy/index.aspx
+2. https://www.birmingham.ac.uk/legal/index.aspx
+3. https://universityofbirmingham.service-now.com/itportal/
+4. https://help.iuob.uk/details/enrolled/account/
+
 ## 2021-06-03
 
 ### 公告1
