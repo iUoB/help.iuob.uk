@@ -101,8 +101,9 @@ module.exports = {
         ['auto-sidebar', true],
         ['fulltext-search', true],
         ['copyright', {
-            noCopy: true, // the selected text will be uncopiable
-            minLength: 10, // if its length is greater than 100
+            noCopy: false,
+            noSelect: false,
+            minLength: 100,
         }],
     ],
     themeConfig: {
