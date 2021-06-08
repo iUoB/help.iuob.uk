@@ -1,5 +1,4 @@
 ---
-copyright.noSelect: true
 copyright.noCopy: true
 ---
 
@@ -7,16 +6,17 @@ copyright.noCopy: true
 
 [[toc]]
 
-⚠️注意: 
-以下内容仅供2021伯明翰大学学生内部交流分享使用, 遵守知识共享许可协议之署名（BY）-非商业性使用（NC）-相同方式共享（SA）4.0, 请勿往转载内容中插入广告及用于其他商业性质.
+::: warning
+
+以下内容仅供2021伯明翰大学学生内部交流分享使用, 遵守**知识共享许可协议**之**署名（BY）-非商业性使用（NC）-相同方式共享（SA）4.0**, 请勿往转载内容中插入广告及用于其他商业性质.
 
 The article on this page is licensed under CC BY-NC-SA 4.0 unless stating additionally.
 
 Copyright © 2021 Harry Yep & iUoB Contributors. All rights reserved.
 
-原文链接: https://help.iuob.uk/details/others/WeChat-Groups/highlight/flights/
+原文链接: [https://help.iuob.uk/details/others/WeChat-Groups/highlight/flights/](https://help.iuob.uk/details/others/WeChat-Groups/highlight/flights/)
 
----
+:::
 
 由于政策以及疫情的影响, 目前中英往返直航航班仍处于暂停状态
 
