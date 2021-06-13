@@ -7,3 +7,5 @@
 * [使用Kortext访问伯明翰大学相关课程电子课本(eBook)](./post/Access-eBook-via-Kortext/)
 
 * [查找自己专业所属学院以及课程详情](./post/Find-My-Courses/)
+
+* [使用China Link更快的访问学术网页和学校互联网](./post/China-Link/)
