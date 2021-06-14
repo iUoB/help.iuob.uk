@@ -6,6 +6,21 @@
 
 [[toc]]
 
+## 2021-06-14
+
+### 公告1
+
+昨日直播答疑汇总: 
+https://help.iuob.uk/details/others/WeChat-Groups/live/2021-06-13/
+
+往期直播答疑汇总: 
+https://help.iuob.uk/details/others/WeChat-Groups/live/
+
+群内往期公告汇总
+https://help.iuob.uk/details/others/WeChat-Groups/announcement/
+
+请大家细心查看，留意重点信息
+
 
 ## 2021-06-08
 
