@@ -142,7 +142,7 @@ Pebble Mill Studios, Pershore Road, Birmingham, B29 7ES
 
 ### Athena Studios - Unite Students
 ::: details 点击查看更多信息
-官网: [https://www.vitastudent.com/student-accommodation/birmingham/](https://www.vitastudent.com/student-accommodation/birmingham/)
+官网: [https://www.unitestudents.com/birmingham/athena-studios](https://www.unitestudents.com/birmingham/athena-studios)
 
 地址: 
 
