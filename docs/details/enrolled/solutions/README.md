@@ -9,3 +9,5 @@
 * [查找自己专业所属学院以及课程详情](./post/Find-My-Courses/)
 
 * [使用China Link更快的访问学术网页和学校互联网](./post/China-Link/)
+
+* [在Canvas App登陆学校账户](./post/Access-Canvas-Mobile/)
