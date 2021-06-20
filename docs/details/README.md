@@ -45,6 +45,8 @@
 
 - [2021机票购买](./others/WeChat-Groups/highlight/flights/)
 
+- [肺结核检测](./others/WeChat-Groups/highlight/TB/)
+
 
 ## 关于iUoB
 
