@@ -11,7 +11,7 @@ The article on this page is licensed under CC BY-NC-SA 4.0 unless stating additi
 
 整理：楚轶 Chloe🦆、Harry Yep
 
-Copyright © 2021 焦遇星桥 & 焦遇星桥 & 楚轶 Chloe🦆& Harry Yep & iUoB Contributors. All rights reserved.
+Copyright © 2021 焦遇星桥 & 美岑🍒🍹 & 楚轶 Chloe🦆& Harry Yep & iUoB Contributors. All rights reserved.
 
 ---
 
