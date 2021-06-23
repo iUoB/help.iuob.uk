@@ -2,6 +2,10 @@
 
 [[toc]]
 
+::: tip
+以下列表和[英国政府官网](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-china/approved-tuberculosis-testing-clinics-in-china)同步
+:::
+
 ## 重庆
 
 ## 西安
@@ -25,6 +29,10 @@
 ## 哈尔滨
 
 ## 南京
+
+### 环球医生南京诊所
+
+[点击查看](./Nanjing/Global-Doctor-Nanjing-Clinic/)
 
 ## 北京
 
