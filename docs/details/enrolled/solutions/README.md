@@ -11,3 +11,7 @@
 * [使用China Link更快的访问学术网页和学校互联网](./post/China-Link/)
 
 * [在Canvas App登陆学校账户](./post/Access-Canvas-Mobile/)
+
+* [伯明翰大学学生注册](./post/University-of-Birmingham-Registration/)
+
+* [访问伯明翰大学提供的邮箱服务Outlook](./post/Access-Outlook-Provided-By-the-University-of-Birmingham/)
