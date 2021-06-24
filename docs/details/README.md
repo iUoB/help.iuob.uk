@@ -1,13 +1,6 @@
 # iUoB帮助中心导航页
 
-请使用下面的按钮选择要查找的内容。
-
-或者，您可以使用搜索栏搜索所需内容。
-
-::: tip 找不到你所需要的内容？帮助我们添加
-点击[此链接](./iUoB/submit/)提交或进行反馈。
-:::
-
+您可以使用点击以访问或者在搜索栏搜索所需内容。
 
 ## 伯明翰大学入学前
 
@@ -37,14 +30,19 @@
 
 - [群内公告](./others/WeChat-Groups/announcement/)
 
+- [2021机票购买](./others/tips/flights/)
+
+- [肺结核检测](./others/tips/TB/)
+
+- [入境英国核酸检测包](./others/tips/policy/2&8-Days-Covid-Test/)
+
 - [群关键词查询](./others/WeChat-Groups/keywords/)  (暂未启用)
 
-- [2021机票购买](./others/WeChat-Groups/highlight/flights/)
-
-- [肺结核检测](./others/WeChat-Groups/highlight/TB/)
-
-
 ## 关于iUoB
+
+::: tip 找不到你所需要的内容？帮助我们添加
+点击[此链接](./iUoB/submit/)提交或进行反馈。
+:::
 
 - [下载iUoB软件](./iUoB/download/)
 
