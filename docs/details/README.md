@@ -1,4 +1,4 @@
-# iUoB帮助中心导航
+# iUoB帮助中心导航页
 
 请使用下面的按钮选择要查找的内容。
 
@@ -23,11 +23,7 @@
 
 ## 其他
 
-::: tip
-在英国留学和生活,[这些](./others/Recommended-Official-WeChat-Account/)公众号或能让你受益非浅.
-
-[点击查看](./others/Recommended-Official-WeChat-Account/)
-:::
+- [公众号推荐](./others/Recommended-Official-WeChat-Account/)
 
 - [留英生活常用联系方式](./others/Common-Used-Contacts-In-UK-Life/)
 
@@ -35,7 +31,7 @@
 
 - [未整理问题](./others/unorganized/)
 
-#### 群内相关
+### 群内相关
 
 - [直播回顾](./others/WeChat-Groups/live/)
 
