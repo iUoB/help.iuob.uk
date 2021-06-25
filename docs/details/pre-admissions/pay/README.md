@@ -90,6 +90,8 @@
 
 Invoice上有学费的截止日期，请按照所述日期，及时/提前缴纳相关款项
 
+2021年6周语言班是7.12号或之前缴纳费用
+
 ### IBAN
 
 根据[官网](https://intranet.birmingham.ac.uk/finance/transaction-services/payment-options/bank-transfer.aspx)所示, IBAN为**GB61 LOYD 3019 1400 0147 06**(请自行前往官网确认,防止此处未及时更新而导致缴费失败)

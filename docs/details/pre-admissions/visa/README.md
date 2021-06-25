@@ -19,7 +19,7 @@
 推荐在存款前查看[学校官网](https://www.birmingham.ac.uk/International/students/visas/moneystudent.aspx)和[英国政府官方文件](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/976139/student-route-casework-guidance-v3.0-ext.pdf)对于保证金的解释和相关要求
 :::
 
-需在办理签证的前**28**天在银行存入定期存款
+需在办理签证的前**28**天在银行存入**定期存款**，需开**存单**/**存款证明**
 
 存款时间大概是收到Unconditional Offer前后,7月中旬
 
@@ -101,6 +101,6 @@ IHS付款后可享受基本的免费NHS<sup>*</sup> 服务
 
 取消，要求退款，重新填写资料，重新预约，退款时间较慢，预计一个月内完成退款
 
-### 预约签证时，UKVI网站上填写的递签地区填错了，我在vfs网站能选其他地方递签吗
+### 预约签证时，UKVI网站上填写的递签地区填错了，我在vfs网站能选其他地方递签吗？
 
 可以
