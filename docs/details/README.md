@@ -34,7 +34,7 @@
 
 - [肺结核检测](./others/tips/TB/)
 
-- [入境英国核酸检测包](./others/tips/policy/2&8-Days-Covid-Test/)
+- [入境英国核酸检测包](./others/tips/policy/Day-2&8-Covid-Test/)
 
 - [群关键词查询](./others/WeChat-Groups/keywords/)  (暂未启用)
 
