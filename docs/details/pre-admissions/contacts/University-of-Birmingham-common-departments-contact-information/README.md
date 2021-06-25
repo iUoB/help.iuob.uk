@@ -10,7 +10,7 @@
 如果找不到你想寻找的部门，请使用[此链接](../../../iUoB/submit/)提交反馈，我们将尽快添加。
 :::
 
-
+[[toc]]
 
 ## Birmingham Business School
 

@@ -6,6 +6,8 @@
 
 学校各个学院都有自己的招生办邮箱，如果你想了解你所申请学院的招生办邮箱，请在[这里](./../University-of-Birmingham-common-departments-contact-information/)查找。
 
+[[toc]]
+
 
 ## Undergraduate Admissions
 
@@ -13,14 +15,14 @@
 ### 邮件
 
 - admissions@contacts.bham.ac.uk
-- ugadmissions@contacts.bham.ac.uk
+- ugadmissions@contacts.bham.ac.uk（**优先使用**）
 
 ### Live Chat
 
 - [点击进入](https://www.birmingham.ac.uk/campaigns/contact/live-chat.aspx)
 
 #### Live Chat 工作时间
-- Monday - Friday: 12pm - 2pm
+- Monday - Friday: 12pm - 2pm（英国时间）
 :::
 
 
@@ -33,14 +35,14 @@
 ### 邮件
 
 - admissions@contacts.bham.ac.uk
-- pgadmissions@contacts.bham.ac.uk
+- pgadmissions@contacts.bham.ac.uk（**优先使用**）
 
 ### Live Chat
 
 - [点击进入](https://www.birmingham.ac.uk/campaigns/contact/live-chat.aspx)
 
 #### Live Chat 工作时间
-- Monday - Friday: 12pm - 2pm
+- Monday - Friday: 12pm - 2pm（英国时间）
 :::
 
 点击[此处](https://www.birmingham.ac.uk/students/pg-admissions/home.aspx)到学校官网了解更多Postgraduate招生信息。

@@ -4,6 +4,8 @@
 更多信息请访问[学校宿舍官网](https://www.birmingham.ac.uk/study/accommodation/index.aspx)
 :::
 
+[[toc]]
+
 ## 联系方式
 
 ::: details 点击查看

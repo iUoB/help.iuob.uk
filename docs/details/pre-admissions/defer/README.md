@@ -6,10 +6,13 @@
 
 请与招生办公室联系，讨论有关defer的问题
 
-::: details
-Email: admissions@bham.ac.uk
+::: details 了解更多
+邮箱: 
+* admissions@bham.ac.uk
 
-Telephone: +44 (0)121 415 8900 or +44 (0)121 414 5488
+电话: 
+* +44 (0)121 415 8900  
+* +44 (0)121 414 5488
 
 Website: [Admissions](http://www.birmingham.ac.uk/university/professional/external/admissions/index.aspx)
 :::
