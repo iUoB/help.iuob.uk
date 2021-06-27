@@ -98,11 +98,11 @@
 
 ### 如果我从黄色名单国家出发，途径绿色国家，所以？
 
-* 从<font color=Orange>黄色</font>名单国家出发，途径<font color=Green>绿色</font>名单国家，根据政策算最低等级，即<font color=Orange>黄色</font>名单政策，需要隔离10天+第2&8天核酸检测包
-* 从<font color=Orange>黄色</font>名单国家出发，途径<font color=Red>红色</font>名单国家，根据政策算最低等级，即<font color=Red>红色</font>名单政策，需要根据英国政府要求集中隔离
-* 从<font color=Green>绿色</font>名单国家出发，途径<font color=Orange>黄色</font>名单国家，根据政策算最低等级，即<font color=Orange>黄色</font>名单政策，需要隔离10天+第2&8天核酸检测包
-* 从<font color=Green>绿色</font>名单国家出发，途径<font color=Red>红色</font>名单国家，根据政策算最低等级，即<font color=Red>红色</font>名单政策，需要根据英国政府要求集中隔离
-* 从<font color=Red>红色</font>名单国家出发，无论途径<font color=Green>绿色</font>还是<font color=Orange>黄色</font>名单国家，都需要按照英国政府要求集中隔离
+* 从<span style="color:orange">黄色</span>名单国家出发，途径<span style="color:green">绿色</span>名单国家，根据政策算最低等级，即<span style="color:orange">黄色</span>名单政策，需要隔离10天+第2&8天核酸检测包
+* 从<span style="color:orange">黄色</span>名单国家出发，途径<span style="color:red">红色</span>名单国家，根据政策算最低等级，即<span style="color:red">红色</span>名单政策，需要根据英国政府要求集中隔离
+* 从<span style="color:green">绿色</span>名单国家出发，途径<span style="color:orange">黄色</span>名单国家，根据政策算最低等级，即<span style="color:orange">黄色</span>名单政策，需要隔离10天+第2&8天核酸检测包
+* 从<span style="color:green">绿色</span>名单国家出发，途径<span style="color:red">红色</span>名单国家，根据政策算最低等级，即<span style="color:red">红色</span>名单政策，需要根据英国政府要求集中隔离
+* 从<span style="color:red">红色</span>名单国家出发，无论途径<span style="color:green">绿色</span>还是<span style="color:orange">黄色</span>名单国家，都需要按照英国政府要求集中隔离
 
 ## 参考
 
