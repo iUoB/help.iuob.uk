@@ -1,6 +1,7 @@
 {
     "name": "Help Center - iUoB",
     "short_name": "iUoB",
+    "description": "Light up your way to the University of Birmingham.",
     "theme_color": "#42b983",
     "background_color": "#42b983",
     "display": "standalone",
