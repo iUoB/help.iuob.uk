@@ -2,6 +2,14 @@
 
 [[toc]]
 
+## 如何获得学校分配的学生账户？
+
+如果你收到了Registration Email（下图），你将会在邮件中找到学校分配的账户和默认密码
+
+Subject: **Please Register with the University of Birmingham**
+
+![1.Registration-Email](https://cdn.iuob.uk/help/details/enrolled/account/account.1.Registration-Email.jpg)
+
 ## 第一次使用伯明翰大学分配的学生账户？
 
 - 请首先使用[my.password.bham.ac.uk](https://my.password.bham.ac.uk/)更改默认密码,默认密码将在注册成功后通过邮件发送
@@ -37,6 +45,9 @@
 
 ::: warning 请注意
 需要特殊环境下才可正常提交
+
+* 原始（默认）密码失效周期：**30天**
+* 密码失效周期：**180天**
 :::
 
 ::: tip 提示
