@@ -1,7 +1,7 @@
 {
-    "name": "Help Center - iUoB",
+    "name": "帮助中心 - iUoB",
     "short_name": "iUoB",
-    "description": "Light up your way to the University of Birmingham.",
+    "description": "为你通往伯明翰大学的路上亮起明灯",
     "theme_color": "#42b983",
     "background_color": "#42b983",
     "display": "standalone",
