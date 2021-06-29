@@ -4,9 +4,11 @@
 
 iUoB是由[Harry Yep](https://www.harrly.com)创立的。<a style="color:red">♥</a>
 
+现在由Harry Yep以及iUoB Contributors共同维护
+
 ## 为什么建立iUoB？
 
-待完成。
+为所有新生在通往伯明翰大学的路上亮起明灯
 
 ## 谁是iUoB的受益人？
 
