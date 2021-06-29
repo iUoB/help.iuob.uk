@@ -145,19 +145,19 @@ module.exports = {
                                 text: '入学前',
                                 items: [{
                                         text: '详情',
-                                        link: '/details/pre-admissions/'
+                                        link: '/details/uni/pre-admissions/'
                                     },
                                     {
                                         text: '录取相关',
-                                        link: '/details/pre-admissions/admissions/'
+                                        link: '/details/uni/pre-admissions/admissions/'
                                     },
                                     {
                                         text: '联系方式',
-                                        link: '/details/pre-admissions/contacts/'
+                                        link: '/details/uni/pre-admissions/contacts/'
                                     },
                                     {
                                         text: '其他',
-                                        link: '/details/pre-admissions/others/'
+                                        link: '/details/uni/pre-admissions/others/'
                                     }
                                 ]
                             },
@@ -165,15 +165,15 @@ module.exports = {
                                 text: '入学后',
                                 items: [{
                                         text: '详情',
-                                        link: '/details/enrolled/'
+                                        link: '/details/uni/enrolled/'
                                     },
                                     {
                                         text: 'Solutions',
-                                        link: '/details/enrolled/solutions/'
+                                        link: '/details/uni/enrolled/solutions/'
                                     },
                                     {
                                         text: '其他',
-                                        link: '/details/enrolled/others/'
+                                        link: '/details/uni/enrolled/others/'
                                     }
                                 ]
                             },
@@ -181,15 +181,11 @@ module.exports = {
                                 text: '其他问题',
                                 items: [{
                                         text: '详情',
-                                        link: '/details/others/'
-                                    },
-                                    {
-                                        text: '关键词查询',
-                                        link: '/details/others/keywords/'
+                                        link: '/details/tips/'
                                     },
                                     {
                                         text: '未整理问题',
-                                        link: '/details/others/unorganized/'
+                                        link: '/details/tips/unorganized/'
                                     },
                                 ]
                             },
