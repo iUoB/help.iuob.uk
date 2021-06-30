@@ -236,7 +236,7 @@ https://mp.weixin.qq.com/s/byHA7m09mWfhm6ZTUZ4RfQ
 * 语言班在读证明
 * 在校学生证明
 * BRP
-* T4 Visa
+* Student Route Visa
 * 机票预定证明
 * 由原学校开具的确认出国留学证明
 
@@ -467,7 +467,7 @@ https://help.iuob.uk/details/others/WeChat-Groups/live/
 * 学生收到Unconditional Offer
 * 订房
 * 学生收到CAS (Confirmation of Acceptance for Studies)
-* 办理签证 (T4 General Student Visa)
+* 办理签证 (Student Route Visa)
     * 存款
     * 肺结核体检 (TB)
     * 预约签证

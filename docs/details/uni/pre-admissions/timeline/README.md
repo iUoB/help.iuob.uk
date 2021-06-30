@@ -70,7 +70,7 @@ Unconditional Offer统一在CAS之前下发, 时间为每年4月至9月.
 
 ## 学生收到CAS (Confirmation of Acceptance for Studies)
 
-## 办理签证 (T4 General Student Visa)
+## 办理签证 (Student Route Visa)
 
 ::: tip 
 更多有关办理签证内容[请看这里](../visa/)
