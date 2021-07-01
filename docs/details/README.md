@@ -36,9 +36,9 @@
 
 - [2021机票购买](./daily/tips/flights/)
 
-#### 肺结核检测
+#### 肺结核检测(TB)
 
-- [肺结核检测](./daily/tips/TB/)
+- [肺结核检测(TB)](./daily/tips/TB/)
 
 #### 警局注册
 
