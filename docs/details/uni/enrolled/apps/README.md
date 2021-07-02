@@ -17,7 +17,8 @@
 [https://apps.iuob.pl/Apps/Mobile/Canvas/Canvas_v6.11.1.apk](https://apps.iuob.pl/Apps/Mobile/Canvas/Canvas_v6.11.1.apk)
 
 ## MyUoB
- ### Apple
+
+### Apple
 
 [https://apps.apple.com/gb/app/myuob/id1462294596](https://apps.apple.com/gb/app/myuob/id1462294596)
 

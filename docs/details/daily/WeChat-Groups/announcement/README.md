@@ -8,7 +8,7 @@
 
 ## 2021-06-14
 
-### 公告1
+### 公告 1
 
 昨日直播答疑汇总: 
 https://help.iuob.uk/details/others/WeChat-Groups/live/2021-06-13/
@@ -24,7 +24,7 @@ https://help.iuob.uk/details/others/WeChat-Groups/announcement/
 
 ## 2021-06-08
 
-### 公告1
+### 公告 1
 
 有关机票购买的事宜
 
@@ -32,15 +32,15 @@ https://help.iuob.uk/details/others/WeChat-Groups/announcement/
 
 ## 2021-06-04
 
-### 公告1
+### 公告 1
 
-所有有关学生账户问题, 根据学校相关规定(附1、2), 请自行处理解决
+所有有关学生账户问题, 根据学校相关规定(附 1、2 ), 请自行处理解决
 
 账户问题包括但不局限于:
 * 更改密码
 * 无法登陆
 * 账户失效
-* 无法使用Canvas、Zoom
+* 无法使用 Canvas、Zoom
 
 解决方式:
 * 致电: +44 121 414 7171
@@ -51,7 +51,7 @@ https://help.iuob.uk/details/others/WeChat-Groups/announcement/
 
 从即刻起暂停有关账户问题的协助及处理
 
-附(4)主要账户问题的处理方案总结
+附 (4) 主要账户问题的处理方案总结
 
 
 附:
@@ -62,12 +62,12 @@ https://help.iuob.uk/details/others/WeChat-Groups/announcement/
 
 ## 2021-06-03
 
-### 公告1
+### 公告 1
 
 有关校园账号登陆、校园软件下载的公告
 
 
-用户名: abc007@student.bham.ac.uk (abc007是你收到注册邮件的用户名)
+用户名: abc007@student.bham.ac.uk ( abc007 是你收到注册邮件的用户名)
 密码: 默认密码(请更改)
 
 所有和学校有关的登陆都需要使用以上用户名和密码
@@ -81,23 +81,28 @@ Canvas:
 
 下载链接:
 
-Apple:  
+Apple: 
+
 https://apps.apple.com/gb/app/canvas-student/id480883488
 
-Android:  
+Android: 
+
 https://play.google.com/store/apps/details?id=com.instructure.candroid
 
 其他设备: 
 
 https://apps.iuob.pl/Apps/Mobile/Canvas/Canvas_v6.11.1.apk  (临时下载链接) 
 
-MyUoB: 
+MyUoB:
+
 下载链接:
 
-Apple:  
+Apple: 
+
 https://apps.apple.com/gb/app/myuob/id1462294596
 
-Android:  
+Android: 
+
 https://play.google.com/store/apps/details?id=com.mydaycloud.app.birmingham
 
 其他设备:
@@ -108,10 +113,12 @@ Outlook(邮箱软件):
 
 下载链接:
 
-Apple:  
+Apple: 
+
 https://apps.apple.com/gb/app/microsoft-outlook/id951937596
 
-Android:  
+Android: 
+
 https://play.google.com/store/apps/details?id=com.microsoft.office.outlook
 
 其他设备: 
@@ -122,25 +129,25 @@ https://play.google.com/store/apps/details?id=com.microsoft.office.outlook
 
 如果临时链接无法下载, 请自行查找可用方式下载相关软件
 
-如果你的非苹果手机连最基本的Google系应用(Google Play Store, Google Chrome, Gmail等)都无法正常下载/访问, 请自行搜索参考相关教程或尽快更换你的手机
+如果你的非苹果手机连最基本的 Google 系应用( Google Play Store , Google Chrome , GMail 等)都无法正常下载 / 访问, 请自行搜索参考相关教程或尽快更换你的手机
 
 ## 2021-05-30
 
-### 公告1
+### 公告 1
 
 有关学生无法收到部分来自学校邮件的公告
 
 
 现确认部分邮件服务提供商会拒收收件者数量较大的群发邮件, 由于大多数来自大学的邮件都是同一内容且统一发送给所有收到Offer新生, 因此可能导致大多数新生无法收到相关邮件, 例如中国新生说明会邀请邮件, 邮件本身没有问题, 问题出在邮件服务商误判
 
-已知会拒收邮件的服务商: 139、189、QQ、网易(旗下126、163、188等)
+已知会拒收邮件的服务商: 139、189、QQ、网易（旗下 126 、163 、188 等）
 
 解决方案: 更换申请邮箱
 
-* 如果是使用UCAS申请, 可以直接在UCAS后台更改邮箱
+* 如果是使用 UCAS 申请, 可以直接在 UCAS 后台更改邮箱
 * 如果是其他方式申请, 暂无修改方式, 请勿因此联系学校
 
-建议更改的邮箱服务提供商: Google、Microsoft(学校邮件服务提供商)、Yahoo、Apple等
+建议更改的邮箱服务提供商: Google、Microsoft （学校邮件服务提供商）、Yahoo 、Apple 等
 
 请注意, 垃圾邮件意味着你的邮箱中仍可以找到发件者发送的邮件, 但是拒收邮件是不能在邮箱中找到发件者发送的邮件, 且邮件服务提供商不会告知收件者邮件被拒收, 仅会告知发件者此邮件被拒收
 
@@ -148,14 +155,14 @@ https://play.google.com/store/apps/details?id=com.microsoft.office.outlook
 
 ![2021-05-30-公告1-图1](https://cdn.iuob.uk/help/details/others/WeChat-Groups/announcement/2021-05-30/announcement-1/1.png)
 
-### 公告2
+### 公告 2
 
 有关部分学生交流过程中“失联”, 或将志愿者当作“机器人”使唤的情况
 
 
 现发现部分学生将志愿者当作机器人, 希望随叫随到, 或只单方面聊天等现象
 
-⚠️重申: 所有的志愿者(包括管理员)都有自己的生活, 我们不是24小时都坐在电脑前看着手机的人工智能, 对于非正常时间的提问、添加好友等行为, 所有的志愿者都有权利不做回应
+⚠️ 重申: 所有的志愿者(包括管理员)都有自己的生活, 我们不是24小时都坐在电脑前看着手机的人工智能, 对于非正常时间的提问、添加好友等行为, 所有的志愿者都有权利不做回应
 
 如果你想你的问题得到回复, 请做到以下几点
 
@@ -171,7 +178,7 @@ https://play.google.com/store/apps/details?id=com.microsoft.office.outlook
 
 无论是大群还是私聊, 对于不礼貌交流以及不提供相互友好交流机会的同学, 我们有权将你采取部分行动, 包括但不局限于删除、踢出群等
 
-与学校发送邮件交流、使用Live Chat进行交流、电话沟通时也请做到以上几点
+与学校发送邮件交流、使用 Live Chat 进行交流、电话沟通时也请做到以上几点
 
 参考链接:
 * www.birmingham.ac.uk
@@ -190,7 +197,7 @@ https://play.google.com/store/apps/details?id=com.microsoft.office.outlook
 
 接到学校有关行前说明会的进一步消息, 现公告供新生参考
 
-由于场次的客观条件限制以及疫情防控的需求, 学校尽可能的选出了8个线下行前说明会的地点, 分别是武汉、南京、郑州、杭州、北京、上海、西安、成都. 经确认, 邀请邮件已经发送至所有取得Offer的学生申请邮箱中, 如果你没有收到此邮件, 可能是因为申请邮箱为中介邮箱而导致未发送给学生本人, 也可能是因为被邮箱拦截或自动归类至垃圾邮件中.
+由于场次的客观条件限制以及疫情防控的需求, 学校尽可能的选出了 8 个线下行前说明会的地点, 分别是武汉、南京、郑州、杭州、北京、上海、西安、成都. 经确认, 邀请邮件已经发送至所有取得 Offer 的学生申请邮箱中, 如果你没有收到此邮件, 可能是因为申请邮箱为中介邮箱而导致未发送给学生本人, 也可能是因为被邮箱拦截或自动归类至垃圾邮件中.
 
 行前说明会主要为信息分享, 以及向大家提供相互交流见面的机会, 学校非常希望大家能踊跃参与. 学校也很遗憾没能照顾到不方便参加的同学, 因此学校计划会在七月初举行线上行前说明会, 十分欢迎大家参与. 
 
@@ -218,7 +225,7 @@ https://play.google.com/store/apps/details?id=com.microsoft.office.outlook
 
 如果你有意愿接种疫苗, 请继续阅读
 
-针对8、9月想要去英国的同学, 请尽快接种疫苗
+针对 8、9 月想要去英国的同学, 请尽快接种疫苗
 
 希望在广东省接种的同学, 请尽快接种疫苗
 
@@ -229,7 +236,7 @@ https://mp.weixin.qq.com/s/byHA7m09mWfhm6ZTUZ4RfQ
 
 请先与附近的社区进行联系, 询问有关当日是否有疫苗接种的安排, 请听从社区指示, 带齐证明留学生身份的有关证明, 包括但不限于
 
-* 录取通知书(Offer)
+* 录取通知书（ Offer ）
 * 学生证
 * 缴费通知书
 * 缴费成功证明
@@ -241,19 +248,19 @@ https://mp.weixin.qq.com/s/byHA7m09mWfhm6ZTUZ4RfQ
 * 由原学校开具的确认出国留学证明
 
 - ⚠️目前没有政策指出, 出国人员必须接种哪种疫苗, 必须接种多少针
-- ⚠️疫苗接种需相隔28-56天, 请自行安排时间
-- ⚠️如果仍未接种完HPV, 请先完全接种后, 再接种新冠疫苗, 两者时间至少相隔2周, 请看 http://wjw.sz.gov.cn/yqxx/content/post_8471925.html
+- ⚠️疫苗接种需相隔 28-56 天, 请自行安排时间
+- ⚠️如果仍未接种完 HPV , 请先完全接种后, 再接种新冠疫苗, 两者时间至少相隔 2 周, 请看 http://wjw.sz.gov.cn/yqxx/content/post_8471925.html
 
 如果你仍有疫苗相关问题, 请及时联系最近的疫苗接种社区门诊咨询
 
-### 公告2
+### 公告 2
 
 群内往期公告记录
 
 请查看
 https://help.iuob.uk/details/others/WeChat-Groups/announcement/
 
-### 公告3
+### 公告 3
 
 有关伯明翰大学中国行前说明会的再次通知
 
@@ -273,13 +280,13 @@ https://help.iuob.uk/details/others/WeChat-Groups/announcement/
 
 ## 2021-05-26
 
-### 公告1
+### 公告 1
 
 对于即将参加伯明翰大学中国行前说明会的同学
 
 如已收到确认邮件,请按时参加说明会
 
-如果因个人原因无法参加,请按照邮件指示联系china@contacts.bham.ac.uk
+如果因个人原因无法参加,请按照邮件指示联系 china@contacts.bham.ac.uk
 
 如果你到目前为止还没收到来自伯明翰大学有关中国行前说明会报名邮件以及报名后未收到确认邮件,则代表着人数已满,你未取得行前说明会资格,将无法参加相关行前说明会
 

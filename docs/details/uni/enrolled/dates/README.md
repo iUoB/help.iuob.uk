@@ -8,7 +8,7 @@
 :::
 
 ::: tip 提示
-研究生今年9月入学，明年7月结课、9月交论文、12月-次年1月拿毕业证
+研究生今年 9 月入学，明年 7 月结课、 9 月交论文、 12 月 - 次年 1 月拿毕业证
 :::
 
 ![dates-1](https://cdn.iuob.uk/help/details/enrolled/dates/dates-1.JPG)

@@ -1,10 +1,10 @@
-# 提交信息给iUoB
+# 提交信息给 iUoB 
 
 如果您发现某些内容不在帮助中心内，可以使用多种方法提交。
 
 ## 做出贡献
 
-- 使用下方的**在GitHub编辑此页面**来对页面进行更改。（你必须有GitHub账户）
+- 使用下方的**在GitHub编辑此页面**来对页面进行更改。（你必须有 GitHub 账户）
 - 发送邮件到[contributes#iuob.uk](mailto:contributes@iuob.uk)
 - 填写[此](https://forms.office.com/Pages/ResponsePage.aspx?id=GzAAqWWQukueuyv5czTnIb5RWazdq9FCmGtQUvu86TJUNEZUU0ZKME1IOTNNMFpaSFZLSVpXMTVXRy4u)问卷
 - 填写[此](https://tawk.to/chat/5fb6a474a1d54c18d8eb5862/default)表格
@@ -17,7 +17,7 @@
 - 填写[此](https://tawk.to/chat/5fb6a474a1d54c18d8eb5862/default)表格
 
 
-## 成为iUoB的一员
+## 成为 iUoB 的一员
 
 你将会获得基础的计算机知识，以及众多福利。
 

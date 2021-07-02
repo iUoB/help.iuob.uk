@@ -26,7 +26,7 @@
 :::
 
 
-点击[此处](https://www.birmingham.ac.uk/students/ug-admissions/home.aspx)到学校官网了解更多Undergraduate招生信息。
+点击[此处](https://www.birmingham.ac.uk/students/ug-admissions/home.aspx)到学校官网了解更多 Undergraduate 招生信息。
 
 
 ## Postgraduate Admissions
@@ -45,4 +45,4 @@
 - Monday - Friday: 12pm - 2pm（英国时间）
 :::
 
-点击[此处](https://www.birmingham.ac.uk/students/pg-admissions/home.aspx)到学校官网了解更多Postgraduate招生信息。
+点击[此处](https://www.birmingham.ac.uk/students/pg-admissions/home.aspx)到学校官网了解更多 Postgraduate 招生信息。
