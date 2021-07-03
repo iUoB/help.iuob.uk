@@ -8102,10 +8102,10 @@ vuepress-html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
-vuepress-plugin-auto-sidebar@2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/vuepress-plugin-auto-sidebar/-/vuepress-plugin-auto-sidebar-2.3.0.tgz#20b50e1d8345c866a2bc646f2da09f06cdd05899"
-  integrity sha512-ZrnHX7MrhLRAzmL5o/A4F4H1/K7Eq326l1f0GDS6vI4yyozS1fwaPemAyoqX9+QfD7E7x3I/z14PqnyU55jpJw==
+vuepress-plugin-auto-sidebar@2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-auto-sidebar/-/vuepress-plugin-auto-sidebar-2.3.2.tgz#fc24275a8fb02eb821388ddb64732354b3af97de"
+  integrity sha512-LmLluo5IrDNc8f7tprEhBYC+lGnfVCVFW7Pp29A+Q21yhin3qXxrTimhmK8e5mO7/qFVWVxYS4hOc22UeoxmUA==
   dependencies:
     colors "^1.4.0"
     execa "^5.0.0"
