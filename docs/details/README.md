@@ -56,6 +56,10 @@
 
 - [留英生活常用联系方式](./daily/tips/Common-Used-Contacts-In-UK-Life/)
 
+### 数据
+
+- [国际旅行卫生保健中心](./daily/data/International-Travel-Health-Care-Center/)
+
 ### 群内相关
 
 - [公众号推荐](./daily/WeChat-Groups/Recommended-Official-WeChat-Account/)
