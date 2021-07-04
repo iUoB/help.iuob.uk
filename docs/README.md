@@ -13,6 +13,10 @@ footer: MIT Licensed | Copyright © 2020-2021 Harry Yep & iUoB Contributors. All
 
 想要了解更多内容，请访问[英国伯明翰大学官网](https://www.birmingham.ac.uk/)
 
+::: tip
+帮助中心（Beta） - iUoB 现已可供大家测试，访问 <beta.help.iuob.uk> 即可查看
+:::
+
 请选择您的语言进行阅读：
 - [British English](https://en.help.iuob.uk/)
 - [简体中文](./)
