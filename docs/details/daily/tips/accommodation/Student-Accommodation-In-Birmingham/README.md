@@ -155,7 +155,7 @@ Athena Studios, Bristol Road, Birmingham B5 7SN
 
 ### Battery Park - Unite Students  <Badge text="与学校合作"/>
 ::: details 点击查看更多信息
-官网: [https://www.vitastudent.com/student-accommodation/birmingham/](https://www.vitastudent.com/student-accommodation/birmingham/)
+官网: [https://www.unitestudents.com/birmingham/battery-park](https://www.unitestudents.com/birmingham/battery-park)
 
 地址: 
 
