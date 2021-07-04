@@ -6,6 +6,76 @@
 
 [[toc]]
 
+## 2021-07-03
+
+### 公告 1
+
+现已整理部分省市的“国际旅行卫生保健中心”联系方式，供大家参考咨询
+
+<https://help.iuob.uk/details/daily/data/International-Travel-Health-Care-Center/>
+
+国际旅行卫生保健中心提供以下服务
+- 体检+开具出国人员国际旅行健康证明（小红本、小黄本）
+- 开具疫苗接种证明（包括新冠疫苗）
+- 出国健康咨询等
+
+部分省市因无国际旅行卫生保健中心官方联系方式，或者信息不对称，导致机器人无法获取相关内容，请自行联系12345进行查询
+
+
+## 2021-06-30
+
+### 公告 1
+
+有关iUoB的升级与重构
+
+为最大程度的便利学生查询有关于入学信息和留英资讯
+
+现推出自我检查页面：<https://check.iuob.uk>，以代替原来帮助中心繁琐的搜寻方式
+
+现已包含以下几大问题
+
+联系伯明翰大学、申请进度缴费问题（押金、语言班、正课、收据）、学校账户及注册问题、肺结核、签证（VISA）、BRP、住宿、机票、入境核酸检测包、学生卡（STUDENT ID）、警局注册、行李清单、银行、GP、电话卡、校园常用软件、直播回顾、群内公告、学校地图、其他
+
+帮助中心<https://help.iuob.uk>现已重构，原分享链接可能无法访问，可使用<https://check.iuob.uk>来获取相关问题链接
+
+
+## 2021-06-20
+
+### 公告 1
+
+有关肺结核检测
+
+有关 “北京港澳国际医务诊所” 肺结核检测细节已经整理
+
+访问[此处](https://help.iuob.uk/details/daily/tips/TB/)查看
+
+
+## 2021-06-19
+
+### 公告 1
+
+有关肺结核检测
+
+有关 “北京新世界耀东诊所” 肺结核检测细节已经整理
+
+访问[此处](https://help.iuob.uk/details/daily/tips/TB/)查看
+
+
+## 2021-06-17
+
+### 公告 1
+
+香港转机注意事项及提醒
+
+1. 香港转机不需要港澳通行证
+2. 香港转机不能出机场
+3. 香港转机不需要在机场做核酸检测
+4. 香港转机和从香港机场直接飞是不一样的
+5. 香港转机需要所有行程出在同一张票上
+6. 香港作为始起点需要从深圳蛇口口岸坐船
+7. 转机时间较长, 自行打发时间
+
+
 ## 2021-06-14
 
 ### 公告 1
@@ -30,6 +100,7 @@ https://help.iuob.uk/details/others/WeChat-Groups/announcement/
 
 请[点此](./../highlight/filghts/)查看
 
+
 ## 2021-06-04
 
 ### 公告 1
@@ -53,12 +124,12 @@ https://help.iuob.uk/details/others/WeChat-Groups/announcement/
 
 附 (4) 主要账户问题的处理方案总结
 
-
 附:
 1. https://www.birmingham.ac.uk/privacy/index.aspx
 2. https://www.birmingham.ac.uk/legal/index.aspx
 3. https://universityofbirmingham.service-now.com/itportal/
 4. https://help.iuob.uk/details/enrolled/account/
+
 
 ## 2021-06-03
 
@@ -131,6 +202,7 @@ https://play.google.com/store/apps/details?id=com.microsoft.office.outlook
 
 如果你的非苹果手机连最基本的 Google 系应用( Google Play Store , Google Chrome , GMail 等)都无法正常下载 / 访问, 请自行搜索参考相关教程或尽快更换你的手机
 
+
 ## 2021-05-30
 
 ### 公告 1
@@ -187,6 +259,7 @@ https://play.google.com/store/apps/details?id=com.microsoft.office.outlook
 * www.baidu.com
 * zhihu.com
 
+
 ## 2021-05-29
 
 ### 公告1
@@ -212,6 +285,7 @@ https://play.google.com/store/apps/details?id=com.microsoft.office.outlook
 现已确认线下说明会广州场更改为线上场, 资格有限, 学校已经发送相关邮件至获得线下场参会资格的同学邮箱中, 请按时参会
 
 考虑到接到消息的时间、部分学生的生活习惯以及部分线下说明会的临近, 我们希望想要参加行前说明会的同学都能注意到此公告, 因此非常抱歉在此时间段发送公告.
+
 
 ## 2021-05-27
 
@@ -277,6 +351,7 @@ https://help.iuob.uk/details/others/WeChat-Groups/announcement/
 
 ![2021-05-27-公告1-图1](https://cdn.iuob.uk/help/details/others/WeChat-Groups/announcement/2021-05-27/announcement-2/1.jpeg)
 ![2021-05-27-公告1-图2](https://cdn.iuob.uk/help/details/others/WeChat-Groups/announcement/2021-05-27/announcement-2/2.jpeg)
+
 
 ## 2021-05-26
 
@@ -350,6 +425,7 @@ https://help.iuob.uk/details/enrolled/solutions/post/Find-My-Courses/
 有关语言班的任何问题,请统一联系
 presessional@contacts.bham.ac.uk
 
+
 ## 2021-05-25
 
 ### 公告1
@@ -390,41 +466,6 @@ https://help.iuob.uk/details/others/WeChat-Groups/live/
 
 谢谢大家的配合
 
-### 公告3
-
-以下为各个地区的群汇总
-
-西北: 新疆+西藏+内蒙古+青海+甘肃+宁夏
-@西北 京津冀 社科 Molly @西北 闽南 Brynn
-
-中部: 湖北+湖南+江西+河南+安徽+陕西+山西+山东
-@中部 二手 工程 Kelly @广云贵 中部 Tesol Annie @中部 love 
-
-东三省: 黑龙江+吉林+辽宁
-@东三省 江浙沪 闽南区 Bird @东三省 广云贵 Gloria
-
-京津冀: 北京+天津+河北
-@西北 京津冀 社科 Molly 
-
-江浙沪: 江苏+上海+浙江
-@东三省 江浙沪 闽南区 Bird
-
-川渝地区: 四川+重庆
-@川渝地区 Chloe
-
-广云贵: 广西+云南+贵州
-@广云贵 中部 Tesol Annie @东三省 广云贵 Gloria
-
-免税区: 海南
-@Harry Yep
-
-闽南区: 福建+台湾
-@东三省 江浙沪 闽南区 Bird 
-@西北 闽南 Brynn
-
-粤港澳: 广东+香港+澳门
-@Harry Yep
-
 
 ## 2021-05-23
 
@@ -450,6 +491,7 @@ https://help.iuob.uk/details/others/WeChat-Groups/live/
 2. 直接付款. 通过epay.bham.ac.uk进行付款,详情请看https://help.iuob.uk/details/pre-admissions/pay/
 3. 直接付款(新). 通过https://shop.bham.ac.uk/product-catalogue/birmingham-international-academy/courses-for-international-students/presessional-english-language-programmes-from-summer-2021 进行付款, 需要选择对应的语言班课程注册新账号付款,伯明翰大学学生账户是无法直接登陆的.
 4. 线下付款(暂不接受).
+
 
 ## 2021-05-17
 
@@ -489,6 +531,7 @@ https://help.iuob.uk/details/others/WeChat-Groups/live/
 
 往期直播回顾请看: https://help.iuob.uk/details/others/WeChat-Groups/live/
 
+
 ## 2021-05-10
 
 ### 公告1
@@ -499,6 +542,7 @@ https://help.iuob.uk/details/others/WeChat-Groups/live/2021-05-09/
 往期直播回顾
 https://help.iuob.uk/details/others/WeChat-Groups/live/
 
+
 ## 2021-04-15
 
 ### 公告1
@@ -508,7 +552,6 @@ https://help.iuob.uk/details/others/WeChat-Groups/live/
 https://help.iuob.uk/details/others/WeChat-Groups/live/2021-04-11/
 
 很多学生关心的学生公寓问题请看3月13日直播回顾https://help.iuob.uk/details/others/WeChat-Groups/live/2021-03-13/
-
 
 - 学生公寓
 
