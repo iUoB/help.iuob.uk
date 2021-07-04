@@ -1208,14 +1208,14 @@
   dependencies:
     lodash.debounce "^4.0.8"
 
-"@vuepress/plugin-back-to-top@^1.8.2":
+"@vuepress/plugin-back-to-top@1.8.2":
   version "1.8.2"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-back-to-top/-/plugin-back-to-top-1.8.2.tgz#e9794409d1d589e4952b0700291270d2696e6d01"
   integrity sha512-htAf2m8+6cGmYQexWerznGBY10y1E4TBfebYC3Y3wqNjFjvXUmRKcAG/u6Yxvey4OFkQUxbth2ilKi/GlIW8aQ==
   dependencies:
     lodash.debounce "^4.0.8"
 
-"@vuepress/plugin-google-analytics@^1.8.2":
+"@vuepress/plugin-google-analytics@1.8.2":
   version "1.8.2"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-google-analytics/-/plugin-google-analytics-1.8.2.tgz#96cf65f1f0ecbb3bcf6b0d10089dafe2aea875bc"
   integrity sha512-BMFayLzT2BvXmnhM9mDHw0UPU7J0pH1X9gQA4HmZxOf7f3+atK5eJGsc1Ia/+1FTG2ESvhFLUU/CC3h5arjEJw==
@@ -1227,21 +1227,21 @@
   dependencies:
     cross-spawn "^6.0.5"
 
-"@vuepress/plugin-medium-zoom@^1.8.2":
+"@vuepress/plugin-medium-zoom@1.8.2":
   version "1.8.2"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-medium-zoom/-/plugin-medium-zoom-1.8.2.tgz#0243dd27edf0c710f9a41a234d253d76ab51e625"
   integrity sha512-Mljso/8E6IbNmIKmwKeC6FDfnhKY3fsOUSs5kEGzz3RQwd54eshqHAMRVwW4LZkYZHhwQXF8+qk7YqoMZB7jjg==
   dependencies:
     medium-zoom "^1.0.4"
 
-"@vuepress/plugin-nprogress@1.8.2", "@vuepress/plugin-nprogress@^1.8.2":
+"@vuepress/plugin-nprogress@1.8.2":
   version "1.8.2"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-nprogress/-/plugin-nprogress-1.8.2.tgz#dc6c082925420c8c59ecb7fc2d4a9401f6d4664a"
   integrity sha512-3TOBee2NM3WLr1tdjDTGfrAMggjN+OlEPyKyv8FqThsVkDYhw48O3HwqlThp9KX7UbL3ExxIFBwWRFLC+kYrdw==
   dependencies:
     nprogress "^0.2.0"
 
-"@vuepress/plugin-pwa@^1.8.2":
+"@vuepress/plugin-pwa@1.8.2":
   version "1.8.2"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-pwa/-/plugin-pwa-1.8.2.tgz#a82ecaa9f920bfc79f283fb3c224a42540109e19"
   integrity sha512-6dQXMI+oqTQtHK22Ba+crhzP5yyAf+V1qVfapgPb8JxLXUasOhr+083VRz5LMYqDzu6CAXM+P8cUgSSBNjifXw==
@@ -8102,7 +8102,7 @@ vuepress-html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
-vuepress-plugin-auto-sidebar@^2.3.2:
+vuepress-plugin-auto-sidebar@2.3.2:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/vuepress-plugin-auto-sidebar/-/vuepress-plugin-auto-sidebar-2.3.2.tgz#fc24275a8fb02eb821388ddb64732354b3af97de"
   integrity sha512-LmLluo5IrDNc8f7tprEhBYC+lGnfVCVFW7Pp29A+Q21yhin3qXxrTimhmK8e5mO7/qFVWVxYS4hOc22UeoxmUA==
@@ -8119,14 +8119,14 @@ vuepress-plugin-container@^2.0.2:
     "@vuepress/shared-utils" "^1.2.0"
     markdown-it-container "^2.0.0"
 
-vuepress-plugin-copyright@^1.0.2:
+vuepress-plugin-copyright@1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/vuepress-plugin-copyright/-/vuepress-plugin-copyright-1.0.2.tgz#d5cc73af82028e073d4cd82e3ef99012ad8f79cc"
   integrity sha512-SWiyqqU8StPGB6WxzVTbRMUyyE0g6lJoP9SDoOua5PHUeawd8XdDBAaCCGRrmd2JDMvCDZlNYHTHgsKJncuU2g==
   dependencies:
     "@shigma/stringify-object" "^3.3.0"
 
-vuepress-plugin-feed@^0.1.9:
+vuepress-plugin-feed@0.1.9:
   version "0.1.9"
   resolved "https://registry.yarnpkg.com/vuepress-plugin-feed/-/vuepress-plugin-feed-0.1.9.tgz#706fc381c1831c110d161b7e892057750c8904da"
   integrity sha512-iOJkR7zPmJAX0TEVdxNsUT07xNQB6lZFpU7DqsYzO01FhaPkMOOVM5Vx5a/iOOuOggAeoI9H9yuah+cRmCImlw==
@@ -8139,7 +8139,7 @@ vuepress-plugin-feed@^0.1.9:
     remove-markdown "0.3.0"
     striptags "3.1.1"
 
-vuepress-plugin-fulltext-search@^2.2.1:
+vuepress-plugin-fulltext-search@2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/vuepress-plugin-fulltext-search/-/vuepress-plugin-fulltext-search-2.2.1.tgz#f73cddfec3b878aa83b89559e8985be1e1cc50de"
   integrity sha512-+BOLOdOTvwg7+4z71fmpuZUaHSw+exrw8S9m0kvBUgIVDoe5VS/G3y4hcd+K1hukbkxE/ec10Ikk8hc/3zf2VQ==
@@ -8155,7 +8155,7 @@ vuepress-plugin-pangu@1.0.1:
   dependencies:
     markdown-it-pangu "^1.0.2"
 
-vuepress-plugin-rss@^2.0.0:
+vuepress-plugin-rss@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/vuepress-plugin-rss/-/vuepress-plugin-rss-2.0.0.tgz#9e08479703f5d426305ae4e686d65ba7de562255"
   integrity sha512-yFMcuh0xADwIvW5JZP2YmigKfNJJl4YWLl7Z+q+egPKHkXGXwq8lVbEg5nWsYDrYRCI+rVTGw1JyKeMWS6uWUg==
@@ -8178,12 +8178,12 @@ vuepress-plugin-smooth-scroll@^0.0.3:
   dependencies:
     smoothscroll-polyfill "^0.4.3"
 
-vuepress-theme-default-prefers-color-scheme@^2.0.0:
+vuepress-theme-default-prefers-color-scheme@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/vuepress-theme-default-prefers-color-scheme/-/vuepress-theme-default-prefers-color-scheme-2.0.0.tgz#c5d305b1b4d10d0915b4bb413e554966d5171b25"
   integrity sha512-4sA3DCiaIIHVjcIC5+mF00mf29IU27KSH97Ga4xb4nUwwlC6eYHg2qchEVOgV25XogCtGgpZ/DCrTkywxvuBcg==
 
-vuepress@^1.8.2:
+vuepress@1.8.2:
   version "1.8.2"
   resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-1.8.2.tgz#97e8bf979630611fc7b621fc4cc35b798ee5e847"
   integrity sha512-BU1lUDwsA3ghf7a9ga4dsf0iTc++Z/l7BR1kUagHWVBHw7HNRgRDfAZBDDQXhllMILVToIxaTifpne9mSi94OA==
