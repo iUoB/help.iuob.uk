@@ -18,6 +18,6 @@ iUoB 提供多种方式让大家联系到我们，请在下面选择你想咨询
 
 ### Talk to Harry Yep
 
-- 请发送邮件到 [hi#hiio.me](mailto:hi@hiio.me) 。
+- 请发送邮件到 [harry#iuob.uk](mailto:harry@iuob.uk) 。
 
 
