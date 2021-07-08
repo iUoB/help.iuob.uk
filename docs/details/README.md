@@ -80,7 +80,7 @@
 点击[此链接](./iUoB/submit/)提交或进行反馈。
 :::
 
-- [下载iUoB软件](./iUoB/download/)
+- [下载 iUoB 手机软件](./iUoB/download/)
 
 - [提交问题](./iUoB/submit/)
 
