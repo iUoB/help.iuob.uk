@@ -63,11 +63,3 @@
 
 
 ## 常见问题
-
-### 注册邮件的 Subject 是什么？
-
-Please Register with the University of Birmingham
-
-### 注册成功邮件的 Subject 是什么？
-
-Registration Confirmation for Academic Session 20XX/XX
