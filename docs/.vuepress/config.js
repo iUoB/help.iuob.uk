@@ -10,7 +10,7 @@ module.exports = {
         }],
         ['meta', {
             name: 'viewport',
-            content: 'width=device-width,initial-scale=1,user-scalable=no'
+            content: 'width=device-width, initial-scale=1, user-scalable=no'
         }],
         ['meta', {
             name: 'author',
@@ -54,6 +54,9 @@ module.exports = {
             name: 'apple-mobile-web-app-status-bar-style',
             content: 'black'
         }],
+        ['script', {
+            'function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-NQKDWXZQ9J");'
+        }]
     ],
     plugins: [
         ['@vuepress/plugin-pwa'],
@@ -112,19 +115,15 @@ module.exports = {
                         text: '入学前',
                         children: [{
                                 text: '详情',
-                                link: '/details/pre-admissions/'
+                                link: '/details/uni/pre-admissions/'
                             },
                             {
-                                text: '录取相关',
-                                link: '/details/pre-admissions/admissions/'
-                            },
-                            {
-                                text: '联系方式',
-                                link: '/details/pre-admissions/contacts/'
+                                text: '联系伯明翰大学',
+                                link: '/details/uni/pre-admissions/contacts/'
                             },
                             {
                                 text: '其他',
-                                link: '/details/pre-admissions/others/'
+                                link: '/details/uni/pre-admissions/others/'
                             }
                         ]
                     },
@@ -132,31 +131,27 @@ module.exports = {
                         text: '入学后',
                         children: [{
                                 text: '详情',
-                                link: '/details/enrolled/'
+                                link: '/details/uni/enrolled/'
                             },
                             {
-                                text: 'Solutions',
-                                link: '/details/enrolled/solutions/'
+                                text: '常见解决方案',
+                                link: '/details/uni/enrolled/solutions/'
                             },
                             {
                                 text: '其他',
-                                link: '/details/enrolled/others/'
+                                link: '/details/uni/enrolled/others/'
                             }
                         ]
                     },
                     {
-                        text: '其他问题',
+                        text: '生活',
                         children: [{
                                 text: '详情',
-                                link: '/details/others/'
-                            },
-                            {
-                                text: '关键词查询',
-                                link: '/details/others/keywords/'
+                                link: '/details/daily/'
                             },
                             {
                                 text: '未整理问题',
-                                link: '/details/others/unorganized/'
+                                link: '/details/daily/unorganized/'
                             },
                         ]
                     },
@@ -170,10 +165,6 @@ module.exports = {
                                 text: '提交问题',
                                 link: '/details/iUoB/submit/'
                             },
-                            {
-                                text: '最近更新',
-                                link: '/details/iUoB/updates/'
-                            }
                         ]
                     }
 
@@ -194,7 +185,7 @@ module.exports = {
                         link: 'https://www.iuob.uk/'
                     },
                     {
-                        text: 'Status - iUoB',
+                        text: 'iUoB 运行状态监控',
                         link: 'https://status.iuob.uk/'
                     }
                 ]
