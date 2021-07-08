@@ -53,9 +53,6 @@ module.exports = {
         ['meta', {
             name: 'apple-mobile-web-app-status-bar-style',
             content: 'black'
-        }],
-        ['script', {
-            'function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-NQKDWXZQ9J");'
         }]
     ],
     plugins: [
