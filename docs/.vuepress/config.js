@@ -82,7 +82,7 @@ module.exports = {
         tip: '提示',
         warning: '请注意',
         danger: '危险提示',
-        editLinkText: '帮助iUoB改善此页面',
+        editLinkText: '帮助 iUoB 改善此页面',
         docsBranch: 'master',
         docsDir: 'docs',
         lastUpdatedText: '最后更新',
