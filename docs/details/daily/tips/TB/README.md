@@ -1,10 +1,10 @@
 # 肺结核检测
 
-[[toc]]
-
 ::: tip
 以下列表和[英国政府官网](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-china/approved-tuberculosis-testing-clinics-in-china)同步，具体地址和联系方式请访问英国政府官网查看
 :::
+
+[[toc]]
 
 ## 重庆
 
