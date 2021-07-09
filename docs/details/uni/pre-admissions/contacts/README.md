@@ -20,3 +20,5 @@
 [与伯明翰大学 Student Help 取得联系](./get-in-touch-with-the-student-help/)
 
 [伯明翰大学常用部门 / 学院联系邮箱](./University-of-Birmingham-common-departments-contact-information/)
+
+[与伯明翰大学语言班联系](./get-in-touch-with-the-bia-office/)
