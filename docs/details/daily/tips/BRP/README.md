@@ -1,4 +1,4 @@
-# 伯明翰大学常见 BRP 相关问题
+# BRP
 
 ::: tip
 更多详细内容请访问[学校官网](https://intranet.birmingham.ac.uk/student/student-hub/menu.aspx?nodeId=3355)查看
@@ -8,7 +8,7 @@
 
 ## BRP 寄送地址
 
-### 如果寄送至学校，由学校签收（推荐）
+### 如果寄送至伯明翰大学，由学校签收（推荐）
 
 根据[学校官网所示](https://intranet.birmingham.ac.uk/student/student-hub/solution.aspx?nodeId=3357),请在申请签证时填写 ACL Code: **2HE322**.
 
