@@ -5,3 +5,5 @@
 :::
 
 内容将在近期完善，届时将通过群公告的形式通知
+
+![Bank](https://cdn.iuob.uk/help/details/enrolled/living/post/card/1.jpeg)
