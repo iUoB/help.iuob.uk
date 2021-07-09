@@ -166,6 +166,19 @@ Battery Park, 701 Bristol Road, B29 6SR
 * customerservices@unitestudents.com
 :::
 
+### The Metalworks - Host Students  <Badge text="与学校合作"/>
+::: details 点击查看更多信息
+官网: [https://host-students.com/locations/birmingham/the-metalworks/](https://host-students.com/locations/birmingham/the-metalworks/)
+
+地址: 
+
+The Metalworks, 50 Aston Webb Boulevard, Birmingham B15 2GG
+
+联系方式: 
+* +44 (0)121 285 1770
+* themetalworks@host-students.com
+:::
+
 ### Selly Oak Court - University Living
 ::: details 点击查看更多信息
 官网: [https://www.universityliving.com/united-kingdom/birmingham/selly-oak-court](https://www.universityliving.com/united-kingdom/birmingham/selly-oak-court)
