@@ -21,20 +21,13 @@
 
 需在办理签证的前 **28** 天在银行存入**定期存款**，需开**存单**/**存款证明**
 
-存款时间大概是收到 Unconditional Offer 前后， 7 月中旬
+存款时间大概是收到 Unconditional Offer 前后，7 月中旬
 
 保证金证明是抽查的，如果被查到，需要提交**存款证明**，可找银行开具
 
 ### 肺结核体检 (TB)
 
-::: tip 提示
-请访问[英国政府官网](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-china/approved-tuberculosis-testing-clinics-in-china)了解更多关于肺结核检测 (TB) 有关内容
-:::
-
-肺结核检测基本都是当日出结果，结果证明需要保存好，递交签证是需要提供
-
-推荐查看文章:
-1. [https://zhuanlan.zhihu.com/p/74455112](https://zhuanlan.zhihu.com/p/74455112)
+请参考[此处](./TB/)
 
 ### 预约签证
 
@@ -75,9 +68,9 @@ IHS付款后可享受基本的免费 NHS<sup>*</sup> 服务
 
 是的
 
-假设你的学费为 25,000 英镑，根据[英国政府文件](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/976139/student-route-casework-guidance-v3.0-ext.pdf)每月生活费为 1,023 英镑(包括住宿费),存款应当为 $25,000 + 9 \times 1,023 = 34,207$ 英镑
+假设你的学费为 25,000 英镑，根据[英国政府文件](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/976139/student-route-casework-guidance-v3.0-ext.pdf)每月生活费为 1,023 英镑(包括住宿费),存款应当为 $ 25,000 + 9 \times 1,023 = 34,207 $ 英镑
 
-实际上,你已经付完学费,那么你只需要存入 $34,207 - 25000 = 9 \times 1,023 = 9207$ 英镑即可
+实际上,你已经付完学费,那么你只需要存入 $ 34,207 - 25000 = 9 \times 1,023 = 9207 $ 英镑即可
 
 ### 为什么要交 IHS 费用?
 
