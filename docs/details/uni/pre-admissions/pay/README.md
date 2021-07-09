@@ -8,7 +8,7 @@
 :::
 
 ::: warning 电汇收款信息
-如无特殊说明，则两者共用同一收款信息，请点击此处下载[收款信息](https://download.iuob.uk/Documents/Pay/UoB-Financial-Particulars-Student-Income.pdf)文件。
+如无特殊说明，则两者共用同一收款信息，请点击此处下载[收款信息](https://cdn.iuob.uk/help/details/uni/pre/pay/UoB-Financial-Particulars-Student-Income.pdf)文件。
 
 为防止文件被搜索引擎收录，请在打开文件时使用密码：**iUoB**。
 :::
