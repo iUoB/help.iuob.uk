@@ -31,7 +31,9 @@
 
 或者
 
-使用易思汇进行缴纳
+使用[易思汇](https://www.easytransfer.cn/?need_login=yes&nr=1&channel_code=CHYK0113102309)进行缴纳
+
+易思汇缴纳[参考](https://mp.weixin.qq.com/s/eizjMor257FepW1pPplwAA)
 
 ### 刷卡缴纳
 
@@ -42,11 +44,11 @@
 1. 打开[缴费网站](https://epay.bham.ac.uk/)
 2. 输入相关个人信息
 3. 输入金额
-4. 输入卡号(支持储蓄卡 / 信用卡 / PayPal )
+4. 输入卡号（支持储蓄卡 / 信用卡 / PayPal ）
 5. 完成缴费
 6. 收到邮件确认
 
-### 直接付款(针对 2021 入读语言班的同学)
+### 直接付款（针对 2021 入读语言班的同学）
 
 ::: tip 提示
 更多有关语言班付款的内容，请参考[学校官网](https://www.birmingham.ac.uk/International/bia/payment-info.aspx)
@@ -100,7 +102,7 @@ Invoice 上有学费的截止日期，请按照所述日期，及时/提前缴�
 
 根据[官网](https://intranet.birmingham.ac.uk/finance/transaction-services/payment-options/bank-transfer.aspx)所示， SWIFT / BIC 为 **LOYDGB21086**（请自行前往官网确认，防止此处未及时更新而导致缴费失败）
 
-### 在支付机构（如支付宝）转账时显示 SWIFT / BIC 后三位为***
+### 在支付机构（如银行、易思汇等）转账时显示 SWIFT / BIC 后三位为***
 
 正常现象，在其他资料都正确的情况下，支付机构会自行补全收款方收款信息。
 
