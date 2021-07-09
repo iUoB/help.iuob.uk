@@ -28,6 +28,14 @@
 
 - [入境英国核酸检测包](./daily/tips/policy/2021/Day-2&8-Covid-Test/)
 
+#### 签证 （Visa）
+
+- [签证（Visa）](./daily/tips/visa/)
+
+#### BRP
+
+- [BRP](./daily/tips/BRP/)
+
 #### 行李清单
 
 - [行李清单](./daily/tips/checklist/)
