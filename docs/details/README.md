@@ -26,6 +26,8 @@
 
 #### 目前政策
 
+- [可开具英文核酸检测报告的机构](./daily/data/Covid-19-Testing-Clinic-CN/)
+
 - [入境英国核酸检测包](./daily/tips/policy/2021/Day-2&8-Covid-Test/)
 
 #### 签证 （Visa）
