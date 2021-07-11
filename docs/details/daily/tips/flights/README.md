@@ -10,8 +10,6 @@ The article on this page is licensed under CC BY-NC-SA 4.0 unless stating additi
 
 Copyright © 2021 Harry Yep & iUoB Contributors. All rights reserved.
 
-原文链接: [https://help.iuob.uk/details/others/WeChat-Groups/highlight/flights/](https://help.iuob.uk/details/others/WeChat-Groups/highlight/flights/)
-
 :::
 
 由于政策以及疫情的影响, 目前中英往返直航航班仍处于暂停状态
