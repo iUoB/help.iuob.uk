@@ -43,7 +43,7 @@ Copyright © 2021 Harry Yep & iUoB Contributors. All rights reserved.
 - 要求：
   * 抵达目的地前 72 小时核酸检测报告
 
-### 国泰航空： 🌟🌟🌟🌟⭐️ 
+### 国泰航空 <Badge type="tip" text="优先选择" />
 * 时间： 即日起 - 9 月 30 日
 * 时长： 总时长约 22 小时，在中转地约 7 小时，飞行时间约 15 小时
 * 航线： 北京 / 上海 / 广州* / 成都 / 厦门 / 杭州 / 福州 - 香港 HKG - 伦敦 LHR / 曼彻斯特 MAN
@@ -54,7 +54,7 @@ Copyright © 2021 Harry Yep & iUoB Contributors. All rights reserved.
 
 *广州起飞将在8月1日开放
 
-### 英国航空： 🌟🌟⭐️
+### 英国航空
 * 时间： 即日起 - 9 月 30 日
 * 时长： 总时长约 22 小时，在中转地约 7 小时，飞行时间约 15 小时
 * 航线： 香港 HKG - 伦敦 LHR / 曼彻斯特 MAN
@@ -64,9 +64,9 @@ Copyright © 2021 Harry Yep & iUoB Contributors. All rights reserved.
   * 航班有可能被随机取消
   * 只能免费改期一次，需补差额
 
-### 维珍航空： ⭐️
+### 维珍航空 <Badge type="warning" text="存在风险" />
 
-::: warning 风险提示
+::: warning 提示
 不稳定
 :::
 
@@ -94,7 +94,7 @@ Copyright © 2021 Harry Yep & iUoB Contributors. All rights reserved.
 - 要求：
   * 抵达目的地前72小时核酸检测报告
 
-### 新加坡航空： 🌟🌟🌟🌟
+### 新加坡航空 <Badge type="tip" text="优先选择" />
 * 时间： 即日起 - 9 月 30 日
 * 时长： 总时长约 25 小时 - 35 小时不等，在中转地约 4 小时 - 14 小时不等，飞行时间约 20 小时
 * 航线： 重庆 CKG - 香港 HKG - 伦敦 LHR
@@ -115,9 +115,9 @@ Copyright © 2021 Harry Yep & iUoB Contributors. All rights reserved.
 - 要求：
   * 抵达目的地前 72 小时核酸检测报告
 
-### 荷兰皇家航空： 🌟🌟⭐️
+### 荷兰皇家航空 <Badge type="danger" text="已知风险" />
 
-::: warning 风险提示
+::: danger 风险提示
 熔断风险
 :::
 
@@ -138,15 +138,15 @@ Copyright © 2021 Harry Yep & iUoB Contributors. All rights reserved.
   * 机票在 Flex 以上等级才能改签，上限 3 次
   * 暂时不能确定前往伯明翰的航班处于可飞状态
 
-### 北欧航空： 🌟⭐️
+### 北欧航空
 * 时间： 每周四
 * 时长： 总时长 14 小时 - 36 小时不等，转机时长 45 分钟 - 23 小时不等，飞行时间 13 小时
 * 航线： 上海浦东 PVG - 哥本哈根 CPH - 伦敦 LHR
 * 价格： CNY 11,237 - CNY 22,854
 
-### 汉莎航空： 🌟⭐️
+### 汉莎航空 <Badge type="danger" text="已知风险" />
 
-::: warning 风险提示
+::: danger 风险提示
 不稳定
 :::
 
@@ -168,7 +168,7 @@ Copyright © 2021 Harry Yep & iUoB Contributors. All rights reserved.
 
 ### 芬兰航空
 
-更多信息请自行参考[官网](https：//www.finnair.com/cn-zh)
+更多信息请自行参考[官网](https://www.finnair.com/cn-zh)
 
 * 航线： 
   * 上海浦东 PVG - 赫尔辛基 HEL - 伦敦 LHR
@@ -177,7 +177,7 @@ Copyright © 2021 Harry Yep & iUoB Contributors. All rights reserved.
 
 ### 法国航空
 
-更多信息请自行参考[官网](https：//www.finnair.com/cn-zh)
+更多信息请自行参考[官网](https://wwws.airfrance.com.cn/)
 
 * 航线： 
   * 北京首都 PEK - 巴黎戴高乐 CDG - 伦敦 LHR
