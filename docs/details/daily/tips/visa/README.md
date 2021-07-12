@@ -79,6 +79,14 @@ IHS 费用遵循 $n + 0.5$ 的政策
 * 硕士：1 年就需要交 1.5 年的 IHS 费用
 * 以此类推
 
+### 额外费用
+
+- [快递服务](https://www.vfsglobal.co.uk/cn/zh/premium-services/courier-service)：CNY 92 （快递到家）
+- [学生豪华套餐](https://www.vfsglobal.co.uk/cn/zh/premium-services/student-premium-package)：CNY 920 （包含快递服务）
+- [黄金时间服务](https://www.vfsglobal.co.uk/cn/zh/premium-services/prime-time-appointment)：CNY 449 （非营业时间递交）
+- [VIP 服务](https://www.vfsglobal.co.uk/cn/zh/premium-services/premium-lounge)：CNY 449 （一对一办理，包含快递服务）
+- [文件扫描服务](https://www.vfsglobal.co.uk/cn/zh/premium-services/document-scanning-assistance)：CNY 115
+
 ### 我已经付完学费了，但是我还没有去存款办签证，我是不是可以少存一些钱
 
 是的，只用存 $ 1,023 \times 9 = 9,207 $ 英镑即可
