@@ -17,9 +17,9 @@
 查看[学校官网](https://www.birmingham.ac.uk/International/students/visas/moneystudent.aspx)和[英国政府官方文件](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/976139/student-route-casework-guidance-v3.0-ext.pdf)对于保证金的解释和相关要求
 :::
 
-需在办理签证的前 **28** 天在银行存入**定期存款**，需开**存单**/**存款证明**
+需在办理签证的前 **28** 天在银行存入**定期存款**，需开**存单** / **存款证明**
 
-存款时间大概为 7 月中旬，如果 9 月初出发
+存款时间大概为 7 月中旬，8月中办签证，9 月初出发前往英国
 
 ### 肺结核体检 (TB)
 
