@@ -1404,7 +1404,7 @@
     "@vuepress/core" "2.0.0-beta.22"
     execa "^5.1.1"
 
-"@vuepress/plugin-google-analytics@^2.0.0-beta.22":
+"@vuepress/plugin-google-analytics@2.0.0-beta.22":
   version "2.0.0-beta.22"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-google-analytics/-/plugin-google-analytics-2.0.0-beta.22.tgz#9d50e115c453e6fd4e04e074349462ddbbf0fa58"
   integrity sha512-vkborGFhrrkGWpBoWT+ipgXFHmUclPI1onBagBDoFDpLG1Zqfd3WvH4W8Ob4kerfFbs/3UColoFg2ipJIpxGjQ==
@@ -1465,7 +1465,7 @@
     "@vuepress/utils" "2.0.0-beta.21"
     vue "^3.1.4"
 
-"@vuepress/plugin-pwa@2.0.0-beta.22", "@vuepress/plugin-pwa@^2.0.0-beta.22":
+"@vuepress/plugin-pwa@2.0.0-beta.22":
   version "2.0.0-beta.22"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-pwa/-/plugin-pwa-2.0.0-beta.22.tgz#24d01b94666df365bd30399694e5e1eefaad6882"
   integrity sha512-qa3Uurs921Ksk9z+xJJcBC4fxmaqZ0viSrFhMUMN3bHjF/G6iIZzDEg5OL+aGnpnbPq5vreQ9MPR3yeqWFbx8w==
@@ -1478,7 +1478,7 @@
     vue "^3.1.4"
     workbox-build "^6.1.5"
 
-"@vuepress/plugin-search@^2.0.0-beta.22":
+"@vuepress/plugin-search@2.0.0-beta.22":
   version "2.0.0-beta.22"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-2.0.0-beta.22.tgz#643eb68b0fabbdff40700404a07401973a38bce3"
   integrity sha512-QwMns4aBFS3kuQgQgtPd4RbcYIoNlux+hx6Tb3ze9Z7xTk7yh0U5GIR96vT3bJ4jQ7axVp72HucZBK+XjIJhTQ==
@@ -5671,7 +5671,7 @@ vue@^3.1.4:
     "@vue/runtime-dom" "3.1.4"
     "@vue/shared" "3.1.4"
 
-vuepress@^2.0.0-beta.22:
+vuepress@2.0.0-beta.22:
   version "2.0.0-beta.22"
   resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-2.0.0-beta.22.tgz#46a3dbc9ea0e9f63e74eda7e19264f266fd8c843"
   integrity sha512-CGylWtEh2NWZJyJ3hwztCv6MmjXg2XLME4xOWF2PoKCL81a/7AacTwwbpISwEBNPcyawUxvu4ni33jX5EdSy3w==
