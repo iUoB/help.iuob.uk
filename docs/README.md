@@ -8,6 +8,8 @@ actions:
 features:
   - title: 公益性
     details: iUoB 是一个完全的公益项目。
+  - title: Stunion
+    details: iUoB is part of Stunion.
   - title: 多语言
     details: iUoB 支持多语言。
 footer: MIT Licensed | Copyright © 2020-2021 Harry Yep & iUoB Contributors. All rights reserved.
