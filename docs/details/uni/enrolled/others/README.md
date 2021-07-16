@@ -22,15 +22,6 @@
 
 https://brill.com/view/serial/HSS
 
-## 我注册成功了吗
-
-完成注册后，你将会收到标题为 Registration Confirmation for Academic Session 的邮件
-
 ## 我拿到签证了，现在需要做什么
 
 完成 Right To Study（RTS）Check ，上传资料，访问：https://intranet.birmingham.ac.uk/student/international/myrts/guides/Guides-by-visa-type.aspx，根据你的签证类型，选择并上传已有资料
-
-## 如何购买英镑存入自己英国账户
-
-请参考电汇付学费的方式
-
