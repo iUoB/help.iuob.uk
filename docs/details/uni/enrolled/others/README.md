@@ -7,11 +7,6 @@
 * UG: Undergraduate 本科
 * PG: Postgraduate 研究生
 
-
-## 伯明翰警局注册链接
-
-https://west-midlands.overseasregistrations.uk/
-
 ## 我需要隔离，怎么去拿 BRP
 
 BRP成功寄送到学校地址后，学校会在两周内发送标题为 IMPORTANT MESSAGE REGARDING YOUR BIOMETRIC RESIDENCE PERMIT – Student ID: XXXXXXX 到你的校园邮箱中，点击邮件内的链接即可预约领取BRP时间，请选择一个隔离完后的时间来领取你的BRP
@@ -24,15 +19,6 @@ BRP成功寄送到学校地址后，学校会在两周内发送标题为 IMPORTA
 
 部分专业已经发送 Welcome Week 的 timetable 到学生邮箱里，希望自己注册 welcome 的活动请访问 https://welcome.birmingham.ac.uk/
 
-## 我需要去警局注册吗
-
-签证如果有需要你 Police Registration ，那你就需要在伯明翰警局注册
-
-请参考学校给出的信息: http://url.iuob.uk/UoB-Police-Reg-Info 
-
-和
-
-伯明翰警察局给出的信息: http://url.iuob.uk/Bham-Police-Reg-Info
 
 ## 申根签证怎么办？（ Schengen Visa ）
 
@@ -53,10 +39,6 @@ BRP 如果寄送到学校，请使用学校 ACL Code: 2HE322 ， BRP 由 UKVI �
 ## 我注册成功了吗
 
 完成注册后，你将会收到标题为 Registration Confirmation for Academic Session 的邮件
-
-## 我需要警局注册，但是我要隔离怎么办
-
-先隔离，后拿 BRP ，再注册，不用担心时间限制
 
 ## 我拿到签证了，现在需要做什么
 
