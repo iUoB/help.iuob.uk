@@ -18,10 +18,6 @@
 
 请看 http://url.iuob.uk/UoB-Schengen-Visa
 
-## 学校宿舍会提供床上用品吗？（枕头，被子等）
-
-不会，需要自己购买
-
 ## Books Recommendation: Humanities and Social Sciences 书籍推荐: 人文社会科学
 
 https://brill.com/view/serial/HSS
