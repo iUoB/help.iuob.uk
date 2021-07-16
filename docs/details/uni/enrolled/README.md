@@ -11,10 +11,6 @@
 
 请点[此链接](./dates/)查看
 
-## 警察局注册
-
-请点[此链接](./police-register/)查看
-
 ## 学生卡（Student ID）
 
 请点[此链接](./ID-Card/)查看
