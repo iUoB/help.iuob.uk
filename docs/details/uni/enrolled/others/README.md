@@ -44,10 +44,6 @@ BRP 如果寄送到学校，请使用学校 ACL Code: 2HE322 ， BRP 由 UKVI �
 
 完成 Right To Study（RTS）Check ，上传资料，访问：https://intranet.birmingham.ac.uk/student/international/myrts/guides/Guides-by-visa-type.aspx，根据你的签证类型，选择并上传已有资料
 
-## 学生 ID 卡怎么拿
-
-请看学校介绍：https://intranet.birmingham.ac.uk/student/student-hub/solution.aspx?NodeId=4538
-
 ## 如何购买英镑存入自己英国账户
 
 请参考电汇付学费的方式
