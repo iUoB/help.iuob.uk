@@ -29,24 +29,11 @@
 
 下载上面“电汇收款信息”里的文件，可通过银行进行缴纳
 
-或者
-
-使用[易思汇](https://www.easytransfer.cn/?need_login=yes&nr=1&channel_code=CHYK0113102309)进行缴纳
-
-易思汇缴纳[参考](https://mp.weixin.qq.com/s/eizjMor257FepW1pPplwAA)
-
 ### 刷卡缴纳
 
 ::: tip 提示
 请在缴纳前查看相关汇率，并确保卡内有足够金额/额度
 :::
-
-1. 打开[缴费网站](https://epay.bham.ac.uk/)
-2. 输入相关个人信息
-3. 输入金额
-4. 输入卡号（支持储蓄卡 / 信用卡 / PayPal ）
-5. 完成缴费
-6. 收到邮件确认
 
 ### 直接付款（针对 2021 入读语言班的同学）
 
@@ -54,23 +41,7 @@
 更多有关语言班付款的内容，请参考[学校官网](https://www.birmingham.ac.uk/International/bia/payment-info.aspx)
 :::
 
-::: tip 提示
-与刷卡缴纳基本相同，请在缴纳前查看相关汇率，并确保卡内有足够金额 / 额度
-:::
-
-1. 打开学校[购物官网-语言班专栏](https://shop.bham.ac.uk/product-catalogue/birmingham-international-academy/courses-for-international-students/presessional-english-language-programmes-from-summer-2021)
-2. 选择你要入读的语言班课程
-3. 点击 **Add to Basket** ，将商品加入购物车
-4. 进入[购物车](https://shop.bham.ac.uk/basket)
-5. 点击 **Proceed to Checkout**
-6. 注册或登陆新账号（学校账户无法直接登陆，请注册一个新账户，推荐使用个人邮箱）
-7. 按照流程使用银行卡（储蓄卡 / 信用卡）进行付款
-8. 收到确认邮件
-9. 付款成功
-
 ### 线下付款
-
-暂时不接受此方式进行付款
 
 ## 联系学校相关收款部门
 
@@ -82,44 +53,27 @@
 当且仅当你付完所有的费用后才能在此申请收据，请完整且正确填写你的个人信息
 :::
 
-请[点此链接索要收据](https://www.birmingham.ac.uk/forms/finance/request-a-receipt.aspx)
-
-成功申请后你将收到确认邮件，收据将在 3 - 5 个工作日内发送给你
-
 ## 其他问题
 
 ### 什么时候交学费
 
-Invoice 上有学费的截止日期，请按照所述日期，及时/提前缴纳相关款项
-
-2021 年 6 周语言班是 7.12 号或之前缴纳费用
+Invoice 上有学费的截止日期
 
 ### IBAN
 
-根据[官网](https://intranet.birmingham.ac.uk/finance/transaction-services/payment-options/bank-transfer.aspx)所示， IBAN 为**GB61 LOYD 3019 1400 0147 06**（请自行前往官网确认，防止此处未及时更新而导致缴费失败）
+[官网](https://intranet.birmingham.ac.uk/finance/transaction-services/payment-options/bank-transfer.aspx)所示
 
 ### SWIFT (BIC)
 
-根据[官网](https://intranet.birmingham.ac.uk/finance/transaction-services/payment-options/bank-transfer.aspx)所示， SWIFT / BIC 为 **LOYDGB21086**（请自行前往官网确认，防止此处未及时更新而导致缴费失败）
+[官网](https://intranet.birmingham.ac.uk/finance/transaction-services/payment-options/bank-transfer.aspx)所示
 
 ### 在支付机构（如银行、易思汇等）转账时显示 SWIFT / BIC 后三位为***
 
-正常现象，在其他资料都正确的情况下，支付机构会自行补全收款方收款信息。
-
-根据[官网](https://intranet.birmingham.ac.uk/finance/transaction-services/payment-options/bank-transfer.aspx)所示， IBAN 为 **GB61 LOYD 3019 1400 0147 06** （请自行前往官网确认，防止此处未及时更新而导致缴费失败）
+正常现象
 
 ### 学费可以分期付款吗?
 
-详情: [https://www.birmingham.ac.uk/undergraduate/fees/pay-tuition/direct-debit.aspx](https://www.birmingham.ac.uk/undergraduate/fees/pay-tuition/direct-debit.aspx)
-
-申请链接: [https://epay.bham.ac.uk/edd](https://epay.bham.ac.uk/edd)
-
-可以分期，需满足以下条件
-1. 有英国银行卡（不接受除英国银行卡以外的银行卡）
-2. 英国银行卡开通 Direct Debit<sup>*</sup>
-3. 有手续费，且不超过付款总额的 1%
-
-<sup>*</sup> Direct Debit: 可以理解为设置银行卡付款信息后按时自动扣款的流程
+可以分期
 
 ### 之前交了押金，剩下的学费怎么计算？
 
