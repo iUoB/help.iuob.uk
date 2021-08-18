@@ -45,3 +45,9 @@ British Council（英国大使馆文化教育处/英国文化教育协会）通�
 你最靠谱的英国百科，生活指南。
 
 ![Changjinglu](https://cdn.iuob.uk/help/details/others/WeChat/changjinglu_UK.jpg)
+
+### 英国ToDo派
+
+ToDo 品牌专注打造全新视角的留学生社会实践信息平台，为伯明翰及其周边地区学生提供免费的社会实践机会、分享别致的英国生活体验。在这里你能找到最实用的留学干货，更能找到一群志同道合的伙伴。 ToDo ，源于学生，忠于学生！
+
+![UKToDo](https://cdn.iuob.uk/help/details/others/WeChat/UKToDo.jpg)
