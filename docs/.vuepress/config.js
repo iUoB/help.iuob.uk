@@ -53,7 +53,8 @@ module.exports = {
         ['meta', {
             name: 'apple-mobile-web-app-status-bar-style',
             content: 'black'
-        }]
+        }],
+        ['script', { 'data-token': '88QXOYUKYQYQ', async: true, src: 'https://cdn.splitbee.io/sb.js' }]
     ],
     plugins: [
         ['@vuepress/plugin-pwa'],
