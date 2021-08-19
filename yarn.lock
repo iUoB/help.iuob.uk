@@ -1199,7 +1199,7 @@
     "@vue/compiler-dom" "3.2.4"
     "@vue/shared" "3.2.4"
 
-"@vue/component-compiler-utils@^3.2.2":
+"@vue/component-compiler-utils@3.2.2":
   version "3.2.2"
   resolved "https://registry.yarnpkg.com/@vue/component-compiler-utils/-/component-compiler-utils-3.2.2.tgz#2f7ed5feed82ff7f0284acc11d525ee7eff22460"
   integrity sha512-rAYMLmgMuqJFWAOb3Awjqqv5X3Q3hVr4jH/kgrFJpiU0j3a90tnNBplqbj+snzrgZhC9W128z+dtgMifOiMfJg==
@@ -1429,7 +1429,7 @@
     "@vuepress/core" "2.0.0-beta.24"
     prismjs "^1.24.1"
 
-"@vuepress/plugin-pwa-popup@^2.0.0-beta.24":
+"@vuepress/plugin-pwa-popup@2.0.0-beta.24":
   version "2.0.0-beta.24"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-pwa-popup/-/plugin-pwa-popup-2.0.0-beta.24.tgz#d2ddc34542b3ea2b25a134502d9efbbcbedb097a"
   integrity sha512-OyuMi77SEB6AbqSFI5MRUJhVRWCVMj3bf8UB6DsaLmg5Je4r7nRu3YJlQ/g7mkxPo3ISyRkGd+Ifo1bjb1ALnQ==
