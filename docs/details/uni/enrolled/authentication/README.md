@@ -12,4 +12,4 @@
 
 ### 银行信地址更改
 
-请使用[开学注册平台](https://registration.bham.ac.uk/)进行在英 / 国内地址更改
+请使用[开学注册平台](https://registration.bham.ac.uk/)进行在英 / 国内地址更改。需要注意的是，地址修改后需要等待大约 1 个工作日以生成新的 Bank Letter。
