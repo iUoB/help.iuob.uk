@@ -153,7 +153,7 @@
 参考 [3. Emergency Contact Details](#_3-emergency-contact-details)
 
 
-### 11. Declaration/Registration.png
+### 11. Declaration/Registration
 
 ::: warning
 请参考以下图片并结合自身条件填写，填写完成后，请点击 **Submit**
